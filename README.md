@@ -64,9 +64,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/tezt9kd3mjzg1.png" width="400" />
+  <img src="https://i.redd.it/i65wuu2isazg1.png" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Is it really so necessarary?"</i></sub>
 </div>
 <!-- MEME_END -->
 
