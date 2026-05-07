@@ -64,9 +64,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/bmpx3p9z8yyg1.gif" width="400" />
+  <img src="https://i.imgur.com/lqIqBUu.png" width="400" />
   <br />
-  <sub><i>"When the algorithm humbles you mid-hustle."</i></sub>
+  <sub><i>"me_irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
