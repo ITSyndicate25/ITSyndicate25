@@ -64,9 +64,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/cn0xhefu5nzg1.png?t=1778163433" width="400" />
+  <img src="https://i.redd.it/ppq1omn6okzg1.png?t=1778176179" width="400" />
   <br />
-  <sub><i>""But boss, I could just heat up the coff- gahk!""</i></sub>
+  <sub><i>"Brian Griffin?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -78,7 +78,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778163433" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778176179" />
 </div>
 <!-- QUOTE_END -->
 
