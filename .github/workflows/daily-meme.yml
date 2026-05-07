@@ -25,43 +25,75 @@ jobs:
           echo "meme_url=$MEME_URL" >> $GITHUB_OUTPUT
           echo "meme_title=$MEME_TITLE" >> $GITHUB_OUTPUT
 
-      - name: Update README with new meme
+      - name: Fetch random quote
+        id: quote
+        run: |
+          RESPONSE=$(curl -s https://zenquotes.io/api/random)
+          QUOTE_TEXT=$(echo "$RESPONSE" | jq -r '.[0].q')
+          QUOTE_AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
+          echo "quote_text=$QUOTE_TEXT" >> $GITHUB_OUTPUT
+          echo "quote_author=$QUOTE_AUTHOR" >> $GITHUB_OUTPUT
+
+      - name: Update README with new meme and quote
         shell: python
         env:
           MEME_URL: ${{ steps.meme.outputs.meme_url }}
           MEME_TITLE: ${{ steps.meme.outputs.meme_title }}
+          QUOTE_TEXT: ${{ steps.quote.outputs.quote_text }}
+          QUOTE_AUTHOR: ${{ steps.quote.outputs.quote_author }}
         run: |
           import os
 
           meme_url = os.environ["MEME_URL"]
           meme_title = os.environ["MEME_TITLE"]
+          quote_text = os.environ["QUOTE_TEXT"]
+          quote_author = os.environ["QUOTE_AUTHOR"]
 
           with open("README.md", "r", encoding="utf-8") as f:
             content = f.read()
 
-          start_marker = "<!-- MEME_START -->"
-          end_marker = "<!-- MEME_END -->"
+          # --- Update meme ---
+          meme_start = "<!-- MEME_START -->"
+          meme_end = "<!-- MEME_END -->"
 
-          start_idx = content.find(start_marker)
-          end_idx = content.find(end_marker)
+          start_idx = content.find(meme_start)
+          end_idx = content.find(meme_end)
 
           if start_idx == -1 or end_idx == -1:
             print("ERROR: meme markers not found in README.md")
             exit(1)
 
-          start_end = start_idx + len(start_marker)
+          start_end = start_idx + len(meme_start)
 
           new_meme = f'\n<div align="center">\n  <img src="{meme_url}" width="400" />\n  <br />\n  <sub><i>"{meme_title}"</i></sub>\n</div>\n'
 
-          new_content = content[:start_end] + new_meme + content[end_idx:]
+          content = content[:start_end] + new_meme + content[end_idx:]
+
+          # --- Update quote ---
+          quote_start = "<!-- QUOTE_START -->"
+          quote_end = "<!-- QUOTE_END -->"
+
+          start_idx = content.find(quote_start)
+          end_idx = content.find(quote_end)
+
+          if start_idx == -1 or end_idx == -1:
+            print("ERROR: quote markers not found in README.md")
+            exit(1)
+
+          start_end = start_idx + len(quote_start)
+
+          new_quote = f'\n<div align="center">\n  <p><i>"{quote_text}"</i></p>\n  <p><strong>-- {quote_author}</strong></p>\n</div>\n'
+
+          content = content[:start_end] + new_quote + content[end_idx:]
 
           with open("README.md", "w", encoding="utf-8") as f:
-            f.write(new_content)
+            f.write(content)
 
           print(f"Meme updated: {meme_title}")
+          print(f"Quote updated: {quote_text[:50]}... — {quote_author}")
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update daily meme"
+          commit_message: "chore: update daily meme and quote"
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"

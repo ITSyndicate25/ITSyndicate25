@@ -76,9 +76,11 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 ## 💭 Random Quote
 
+<!-- QUOTE_START -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+<!-- QUOTE_END -->
 
 <br />
 
