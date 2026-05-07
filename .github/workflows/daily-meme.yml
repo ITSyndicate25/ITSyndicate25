@@ -1,0 +1,45 @@
+name: Daily Meme Update
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  update-meme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch random meme from Reddit
+        id: meme
+        run: |
+          RESPONSE=$(curl -s https://meme-api.com/gimme)
+          MEME_URL=$(echo "$RESPONSE" | jq -r '.url')
+          MEME_TITLE=$(echo "$RESPONSE" | jq -r '.title')
+          echo "meme_url=$MEME_URL" >> $GITHUB_OUTPUT
+          echo "meme_title=$MEME_TITLE" >> $GITHUB_OUTPUT
+
+      - name: Update README with new meme
+        shell: bash
+        run: |
+          NEW_MEME='<div align="center">
+            <img src="${{ steps.meme.outputs.meme_url }}" width="400" />
+            <br />
+            <sub><i>"${{ steps.meme.outputs.meme_title }}"</i></sub>
+          </div>'
+
+          ESCAPED=$(echo "$NEW_MEME" | sed ':a;N;$!ba;s/\n/\\n/g' | sed 's/[/&]/\\&/g')
+
+          sed -i "/<!-- MEME_START -->/,/<!-- MEME_END -->/c\\<!-- MEME_START -->\\n${ESCAPED}\\n<!-- MEME_END -->" README.md
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily meme"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
