@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ITSyndicate25&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=ITSyndicate25&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 <div align="center">
