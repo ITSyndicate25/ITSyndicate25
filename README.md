@@ -64,9 +64,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/kqkdidzjrbzg1.png?t=1778187964" width="400" />
+  <img src="https://i.redd.it/qiago4i97ozg1.png?t=1778194914" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Every “just one more episode” decision has consequences"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -78,7 +78,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778187964" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778194914" />
 </div>
 <!-- QUOTE_END -->
 
