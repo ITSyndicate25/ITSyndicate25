@@ -27,6 +27,31 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 ## 🛠️ Tech Stack
 
+### Languages
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/languages/javascript.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/languages/typescript.svg" /></a>
+<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/languages/php.svg" /></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/languages/python.svg" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/languages/java.svg" /></a>
+
+<br clear="left"/>
+<br/>
+
+### Libraries
+<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/libraries/react.svg" /></a>
+<a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/libraries/jquery.svg" /></a>
+<a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/libraries/node.js.gif" /></a>
+
+<br clear="left"/>
+<br/>
+
+### Frameworks
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/frameworks/nextjs.svg" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/ITSyndicate25/ITSyndicate25/auxiliary/frameworks/tailwindcss.svg" /></a>
+
+<br clear="left"/>
+<br/>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,nextjs,prisma,mysql&perline=7" />
   <br />
@@ -45,6 +70,12 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITSyndicate25&theme=radical" height="170" />
 </div>
+
+<br />
+
+---
+
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 <br />
 
