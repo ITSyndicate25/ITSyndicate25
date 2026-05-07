@@ -65,6 +65,14 @@ jobs:
 
           start_end = start_idx + len(meme_start)
 
+          import time
+          cache_bust = int(time.time())
+          # Add cache-busting param if URL doesn't have one yet
+          if "?" not in meme_url:
+              meme_url = meme_url + "?t=" + str(cache_bust)
+          else:
+              meme_url = meme_url + "&t=" + str(cache_bust)
+
           new_meme = f'\n<div align="center">\n  <img src="{meme_url}" width="400" />\n  <br />\n  <sub><i>"{meme_title}"</i></sub>\n</div>\n'
 
           content = content[:start_end] + new_meme + content[end_idx:]
