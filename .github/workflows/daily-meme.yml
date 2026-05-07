@@ -26,17 +26,39 @@ jobs:
           echo "meme_title=$MEME_TITLE" >> $GITHUB_OUTPUT
 
       - name: Update README with new meme
-        shell: bash
+        shell: python
+        env:
+          MEME_URL: ${{ steps.meme.outputs.meme_url }}
+          MEME_TITLE: ${{ steps.meme.outputs.meme_title }}
         run: |
-          NEW_MEME='<div align="center">
-            <img src="${{ steps.meme.outputs.meme_url }}" width="400" />
-            <br />
-            <sub><i>"${{ steps.meme.outputs.meme_title }}"</i></sub>
-          </div>'
+          import os
 
-          ESCAPED=$(echo "$NEW_MEME" | sed ':a;N;$!ba;s/\n/\\n/g' | sed 's/[/&]/\\&/g')
+          meme_url = os.environ["MEME_URL"]
+          meme_title = os.environ["MEME_TITLE"]
 
-          sed -i "/<!-- MEME_START -->/,/<!-- MEME_END -->/c\\<!-- MEME_START -->\\n${ESCAPED}\\n<!-- MEME_END -->" README.md
+          with open("README.md", "r", encoding="utf-8") as f:
+            content = f.read()
+
+          start_marker = "<!-- MEME_START -->"
+          end_marker = "<!-- MEME_END -->"
+
+          start_idx = content.find(start_marker)
+          end_idx = content.find(end_marker)
+
+          if start_idx == -1 or end_idx == -1:
+            print("ERROR: meme markers not found in README.md")
+            exit(1)
+
+          start_end = start_idx + len(start_marker)
+
+          new_meme = f'\n<div align="center">\n  <img src="{meme_url}" width="400" />\n  <br />\n  <sub><i>"{meme_title}"</i></sub>\n</div>\n'
+
+          new_content = content[:start_end] + new_meme + content[end_idx:]
+
+          with open("README.md", "w", encoding="utf-8") as f:
+            f.write(new_content)
+
+          print(f"Meme updated: {meme_title}")
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
