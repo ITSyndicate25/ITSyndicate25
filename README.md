@@ -14,7 +14,7 @@
 
 I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based in the Philippines. I build robust web applications and enterprise solutions with a focus on clean architecture and maintainable code.
 
-- 🔭 Currently building and maintaining web apps at Fujifilm Optics
+- 🔭 Currently building and maintaining web systems at Fujifilm Optics Philippines Inc (FOPH)
 - 🌱 Deepening my expertise in **Next.js** & **Prisma** ecosystem
 - 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, and anything web-related
 - ⚡ Outside code: I enjoy reading, watching videos, memes, technology, and eating
