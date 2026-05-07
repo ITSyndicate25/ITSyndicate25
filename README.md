@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=ITSyndicate25&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-</div>
-
 <br />
 
 ---
@@ -22,7 +17,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 - 🔭 Currently building and maintaining web apps at Fujifilm Optics
 - 🌱 Deepening my expertise in **Next.js** & **Prisma** ecosystem
 - 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, and anything web-related
-- ⚡ Outside code: I enjoy memes, tech gear, and coffee
+- ⚡ Outside code: I enjoy reading, watching videos, memes, technology, and eating
 - 📍 Philippines 🇵🇭
 
 <br />
