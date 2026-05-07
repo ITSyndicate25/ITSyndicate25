@@ -40,10 +40,10 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITSyndicate25&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITSyndicate25&theme=radical" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSyndicate25&theme=radical&hide_border=true" height="170" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSyndicate25&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITSyndicate25&theme=radical" height="170" />
 </div>
 
 <br />
