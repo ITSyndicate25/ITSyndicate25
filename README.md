@@ -64,7 +64,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hj79oglv3mzg1.png" width="400" />
+  <img src="https://i.redd.it/hj79oglv3mzg1.png?t=1778138993" width="400" />
   <br />
   <sub><i>"It supposed to be"</i></sub>
 </div>
@@ -78,7 +78,8 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <p><i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i></p>
+  <p><strong>-- John Eliot</strong></p>
 </div>
 <!-- QUOTE_END -->
 
