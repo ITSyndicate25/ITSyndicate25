@@ -78,8 +78,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <p><i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i></p>
-  <p><strong>-- John Eliot</strong></p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 <!-- QUOTE_END -->
 

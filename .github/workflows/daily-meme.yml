@@ -2,7 +2,7 @@ name: Daily Meme Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
   push:
     branches: [main, master]
@@ -25,29 +25,16 @@ jobs:
           echo "meme_url=$MEME_URL" >> $GITHUB_OUTPUT
           echo "meme_title=$MEME_TITLE" >> $GITHUB_OUTPUT
 
-      - name: Fetch random quote
-        id: quote
-        run: |
-          RESPONSE=$(curl -s https://zenquotes.io/api/random)
-          QUOTE_TEXT=$(echo "$RESPONSE" | jq -r '.[0].q')
-          QUOTE_AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
-          echo "quote_text=$QUOTE_TEXT" >> $GITHUB_OUTPUT
-          echo "quote_author=$QUOTE_AUTHOR" >> $GITHUB_OUTPUT
-
       - name: Update README with new meme and quote
         shell: python
         env:
           MEME_URL: ${{ steps.meme.outputs.meme_url }}
           MEME_TITLE: ${{ steps.meme.outputs.meme_title }}
-          QUOTE_TEXT: ${{ steps.quote.outputs.quote_text }}
-          QUOTE_AUTHOR: ${{ steps.quote.outputs.quote_author }}
         run: |
           import os
 
           meme_url = os.environ["MEME_URL"]
           meme_title = os.environ["MEME_TITLE"]
-          quote_text = os.environ["QUOTE_TEXT"]
-          quote_author = os.environ["QUOTE_AUTHOR"]
 
           with open("README.md", "r", encoding="utf-8") as f:
             content = f.read()
@@ -77,7 +64,7 @@ jobs:
 
           content = content[:start_end] + new_meme + content[end_idx:]
 
-          # --- Update quote ---
+          # --- Update quote (styled SVG with cache-busting) ---
           quote_start = "<!-- QUOTE_START -->"
           quote_end = "<!-- QUOTE_END -->"
 
@@ -90,7 +77,9 @@ jobs:
 
           start_end = start_idx + len(quote_start)
 
-          new_quote = f'\n<div align="center">\n  <p><i>"{quote_text}"</i></p>\n  <p><strong>-- {quote_author}</strong></p>\n</div>\n'
+          quote_url = f"https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb={cache_bust}"
+
+          new_quote = f'\n<div align="center">\n  <img src="{quote_url}" />\n</div>\n'
 
           content = content[:start_end] + new_quote + content[end_idx:]
 
@@ -98,7 +87,7 @@ jobs:
             f.write(content)
 
           print(f"Meme updated: {meme_title}")
-          print(f"Quote updated: {quote_text[:50]}... — {quote_author}")
+          print(f"Quote updated with cache-busting: cb={cache_bust}")
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
