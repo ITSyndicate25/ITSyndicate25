@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/wi29we0m9szg1.png?t=1778232316" width="400" />
+  <img src="https://i.redd.it/pldk3irdorzg1.png?t=1778239157" width="400" />
   <br />
-  <sub><i>"POV: Japanese People When There's A Foreigner"</i></sub>
+  <sub><i>"me irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778232316" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778239157" />
 </div>
 <!-- QUOTE_END -->
 
