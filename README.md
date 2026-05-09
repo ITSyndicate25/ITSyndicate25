@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/t8dp2vptazzg1.png?t=1778324337" width="400" />
+  <img src="https://i.redd.it/uep108kihqzg1.gif?t=1778332944" width="400" />
   <br />
-  <sub><i>"My heart skipped a beat"</i></sub>
+  <sub><i>"Dietary memes hit different"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778324337" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778332944" />
 </div>
 <!-- QUOTE_END -->
 
