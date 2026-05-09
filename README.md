@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/lazhwx3ncgzg1.png?t=1778318488" width="400" />
+  <img src="https://i.redd.it/t8dp2vptazzg1.png?t=1778324337" width="400" />
   <br />
-  <sub><i>"eltit A"</i></sub>
+  <sub><i>"My heart skipped a beat"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778318488" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778324337" />
 </div>
 <!-- QUOTE_END -->
 
