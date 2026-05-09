@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/gqv9uunlmdzg1.png?t=1778359695" width="400" />
+  <img src="https://i.redd.it/agj7buplv40h1.png?t=1778366996" width="400" />
   <br />
-  <sub><i>"I am FREEEEE"</i></sub>
+  <sub><i>"Sure, you can eat half my food"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778359695" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778366996" />
 </div>
 <!-- QUOTE_END -->
 
