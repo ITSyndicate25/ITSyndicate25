@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/efj431ixsyzg1.png?t=1778281030" width="400" />
+  <img src="https://i.redd.it/e7jp8t3kjyzg1.png?t=1778296837" width="400" />
   <br />
-  <sub><i>"Someone asked why you still buy game disks"</i></sub>
+  <sub><i>"i have boiled down all human interaction into one image"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778281030" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778296837" />
 </div>
 <!-- QUOTE_END -->
 
