@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/uep108kihqzg1.gif?t=1778332944" width="400" />
+  <img src="https://i.redd.it/htiwnyihq10h1.gif?t=1778338395" width="400" />
   <br />
-  <sub><i>"Dietary memes hit different"</i></sub>
+  <sub><i>"Hey remember these guys?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778332944" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778338395" />
 </div>
 <!-- QUOTE_END -->
 
