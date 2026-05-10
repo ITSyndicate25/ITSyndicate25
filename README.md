@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/s69igj3bajzg1.png?t=1778383921" width="400" />
+  <img src="https://i.redd.it/nf2vst3sr60h1.gif?t=1778394886" width="400" />
   <br />
-  <sub><i>"Hello from across the pond."</i></sub>
+  <sub><i>"In 2026 Alone, He's Presented, Narrated, or Been A Part of SIX Documentaries/Programmes"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778383921" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778394886" />
 </div>
 <!-- QUOTE_END -->
 
