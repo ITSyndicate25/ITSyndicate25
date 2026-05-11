@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/qso2t1w5070h1.png?t=1778522173" width="400" />
+  <img src="https://i.redd.it/wfmth0o1vg0h1.png?t=1778529264" width="400" />
   <br />
-  <sub><i>"I'll shower tomorrow"</i></sub>
+  <sub><i>"Blub Blub"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778522173" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778529264" />
 </div>
 <!-- QUOTE_END -->
 
