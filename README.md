@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/4z89khcr8i0h1.png?t=1778534385" width="400" />
+  <img src="https://i.redd.it/scsb5pd72k0h1.png?t=1778540218" width="400" />
   <br />
-  <sub><i>"All shits and giggles"</i></sub>
+  <sub><i>"I mean, who isn't?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778534385" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778540218" />
 </div>
 <!-- QUOTE_END -->
 
