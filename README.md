@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/50iw0z8t8l0h1.png?t=1778596218" width="400" />
+  <img src="https://i.redd.it/s8bs2ahfuj0h1.png?t=1778608874" width="400" />
   <br />
-  <sub><i>"Just what the doctor ordered"</i></sub>
+  <sub><i>"Didn't help that my annual physical didn't even check for it 🙃🙃🙃"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778596218" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778608874" />
 </div>
 <!-- QUOTE_END -->
 
