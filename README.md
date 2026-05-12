@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/31n8h7bm4m0h1.png?t=1778582017" width="400" />
+  <img src="https://i.redd.it/50iw0z8t8l0h1.png?t=1778596218" width="400" />
   <br />
-  <sub><i>"Not 100% a Lady Superman"</i></sub>
+  <sub><i>"Just what the doctor ordered"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778582017" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778596218" />
 </div>
 <!-- QUOTE_END -->
 
