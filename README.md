@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/x3psvvy49y0h1.png?t=1778707646" width="400" />
+  <img src="https://i.redd.it/srr6dqp64w0h1.gif?t=1778713584" width="400" />
   <br />
-  <sub><i>"Stop scaring me like this ffs"</i></sub>
+  <sub><i>"Anime fans right now"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778707646" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778713584" />
 </div>
 <!-- QUOTE_END -->
 
