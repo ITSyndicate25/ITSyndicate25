@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/x2hu14u43s0h1.png?t=1778754041" width="400" />
+  <img src="https://i.redd.it/je6b8cf9p21h1.png?t=1778768395" width="400" />
   <br />
-  <sub><i>"Doing gods work. I'm basically an archbishop."</i></sub>
+  <sub><i>"The Wikipedia page of the Common Sparrow sure is something."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778754041" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778768395" />
 </div>
 <!-- QUOTE_END -->
 
