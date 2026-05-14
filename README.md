@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/l0ih7er37y0h1.png?t=1778781169" width="400" />
+  <img src="https://i.redd.it/2wx8zcn4vz0h1.png?t=1778788122" width="400" />
   <br />
-  <sub><i>"What a delight"</i></sub>
+  <sub><i>"I love the M1917"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778781169" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778788122" />
 </div>
 <!-- QUOTE_END -->
 
