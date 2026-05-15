@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/g1w8uwdj071h1.png?t=1778854289" width="400" />
+  <img src="https://i.redd.it/y0nqcx34o41h1.png?t=1778866827" width="400" />
   <br />
-  <sub><i>"I went way past only 9 years doing this."</i></sub>
+  <sub><i>"And Soap fear of course"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778854289" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778866827" />
 </div>
 <!-- QUOTE_END -->
 
