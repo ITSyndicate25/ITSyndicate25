@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/zutfmveoj51h1.png?t=1778828227" width="400" />
+  <img src="https://i.redd.it/5ws12fch311h1.gif?t=1778840783" width="400" />
   <br />
-  <sub><i>"Hawaii: Life finds a way. / Mordor: Death finds a way."</i></sub>
+  <sub><i>"We don't do that here"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778828227" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778840783" />
 </div>
 <!-- QUOTE_END -->
 
