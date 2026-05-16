@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/wkkrll4cxi1h1.png?t=1778964735" width="400" />
+  <img src="https://i.redd.it/g1q7vmbyif1h1.png?t=1778971765" width="400" />
   <br />
-  <sub><i>"The service that i want"</i></sub>
+  <sub><i>""I think I want to fly to Paris, Madrid, NYC, Paris, Tokyo, Beijing, LA, and Rio doctor""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778964735" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778971765" />
 </div>
 <!-- QUOTE_END -->
 
