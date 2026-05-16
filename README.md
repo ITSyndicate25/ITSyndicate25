@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/rthc8tiswf1h1.png?t=1778929414" width="400" />
+  <img src="https://i.redd.it/sumig5rk881h1.png?t=1778938016" width="400" />
   <br />
-  <sub><i>"Or just whenever Shipping Up to Boston plays"</i></sub>
+  <sub><i>"Corporate Survival Skills 101."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778929414" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778938016" />
 </div>
 <!-- QUOTE_END -->
 
