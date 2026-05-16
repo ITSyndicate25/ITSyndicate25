@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/jrghxh7gtb1h1.png?t=1778950823" width="400" />
+  <img src="https://i.redd.it/jddngum3sf1h1.png?t=1778958488" width="400" />
   <br />
-  <sub><i>"the solution is easier than you think!"</i></sub>
+  <sub><i>"A sus title."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778950823" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778958488" />
 </div>
 <!-- QUOTE_END -->
 
