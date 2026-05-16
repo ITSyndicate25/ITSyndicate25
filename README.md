@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/cpyjhk2k4e1h1.png?t=1778912618" width="400" />
+  <img src="https://i.redd.it/jfcdmyx3rf1h1.png?t=1778924557" width="400" />
   <br />
-  <sub><i>"Just a normal friday"</i></sub>
+  <sub><i>"Random thing I made in an Instagram chat that is now for all to see"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778912618" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1778924557" />
 </div>
 <!-- QUOTE_END -->
 
