@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/7lsor0tabl1h1.png?t=1779037131" width="400" />
+  <img src="https://i.redd.it/8n47sie2up1h1.png?t=1779045158" width="400" />
   <br />
-  <sub><i>"Life just suddenly turned into fnaf 4 💔"</i></sub>
+  <sub><i>"Me trying to sleep and my brain starts the annual embarrassment recap"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779037131" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779045158" />
 </div>
 <!-- QUOTE_END -->
 
