@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/9clxutsk7b1h1.png?t=1779058503" width="400" />
+  <img src="https://i.redd.it/2b1iazrx5i1h1.png?t=1779076444" width="400" />
   <br />
-  <sub><i>"Someone really should have told their uniform tailor of what a senator looks like."</i></sub>
+  <sub><i>"Stop complaining and just play the hand you were dealt"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779058503" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779076444" />
 </div>
 <!-- QUOTE_END -->
 
