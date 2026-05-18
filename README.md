@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/k38kiabvl91h1.gif?t=1779138873" width="400" />
+  <img src="https://i.redd.it/sucv34f45r1h1.gif?t=1779145461" width="400" />
   <br />
-  <sub><i>"me irl"</i></sub>
+  <sub><i>"Twice the sadness you say..."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779138873" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779145461" />
 </div>
 <!-- QUOTE_END -->
 
