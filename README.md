@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/3pbz6bon3u1h1.png?t=1779091604" width="400" />
+  <img src="https://i.redd.it/waskvp8pxk1h1.gif?t=1779112142" width="400" />
   <br />
-  <sub><i>"its 6 in the morning bro"</i></sub>
+  <sub><i>"Shakes, does a little dance, confirms everything is out"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779091604" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779112142" />
 </div>
 <!-- QUOTE_END -->
 
