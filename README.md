@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/sucv34f45r1h1.gif?t=1779145461" width="400" />
+  <img src="https://i.redd.it/cpj358ni2z1h1.png?t=1779162393" width="400" />
   <br />
-  <sub><i>"Twice the sadness you say..."</i></sub>
+  <sub><i>"Reddit CEO every 10 months:"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779145461" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779162393" />
 </div>
 <!-- QUOTE_END -->
 
