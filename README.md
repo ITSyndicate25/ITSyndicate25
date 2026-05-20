@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6pnhkfqp092h1.png?t=1779274361" width="400" />
+  <img src="https://i.redd.it/biywnrupp72h1.png?t=1779290805" width="400" />
   <br />
-  <sub><i>"We're tired of the limited gigabyte system."</i></sub>
+  <sub><i>"DOWN WITH YE SCALPERS!!!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779274361" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779290805" />
 </div>
 <!-- QUOTE_END -->
 
