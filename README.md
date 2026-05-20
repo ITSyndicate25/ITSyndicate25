@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/i6u0y8skgi1h1.png?t=1779248827" width="400" />
+  <img src="https://i.redd.it/y8wph9a0iv1h1.gif?t=1779263214" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"billions must defile school desks"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779248827" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779263214" />
 </div>
 <!-- QUOTE_END -->
 
