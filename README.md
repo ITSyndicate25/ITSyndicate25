@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/shz5e6i4cc2h1.png?t=1779319217" width="400" />
+  <img src="https://i.redd.it/biywnrupp72h1.png?t=1779335828" width="400" />
   <br />
-  <sub><i>"It thinks rims are faces"</i></sub>
+  <sub><i>"DOWN WITH YE SCALPERS!!!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779319217" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779335828" />
 </div>
 <!-- QUOTE_END -->
 
