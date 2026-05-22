@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/wvcnmtpntm2h1.png?t=1779447168" width="400" />
+  <img src="https://i.redd.it/r305lpxib82h1.png?t=1779461010" width="400" />
   <br />
-  <sub><i>"no more options i guess"</i></sub>
+  <sub><i>"title. down upside An"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779447168" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779461010" />
 </div>
 <!-- QUOTE_END -->
 
