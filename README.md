@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/3fkkro5z0x1h1.png?t=1779422003" width="400" />
+  <img src="https://i.redd.it/yq1f0kqazk2h1.gif?t=1779436104" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"These boys are rascals"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779422003" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779436104" />
 </div>
 <!-- QUOTE_END -->
 
