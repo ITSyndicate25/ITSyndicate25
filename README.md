@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6xh8wqc6fl2h1.png?t=1779548567" width="400" />
+  <img src="https://i.redd.it/d0u8uwf81n2h1.png?t=1779555722" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"The History of Memes"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779548567" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779555722" />
 </div>
 <!-- QUOTE_END -->
 
