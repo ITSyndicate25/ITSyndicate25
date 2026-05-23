@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/9u5qdhv7op2h1.png?t=1779563613" width="400" />
+  <img src="https://i.redd.it/dogzqkwznq2h1.png?t=1779569749" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"Mortal Kombat II, Elrond reaction"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779563613" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779569749" />
 </div>
 <!-- QUOTE_END -->
 
