@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/avzy7fkhc22h1.gif?t=1779530135" width="400" />
+  <img src="https://i.redd.it/nfhyazvyer2h1.png?t=1779543612" width="400" />
   <br />
-  <sub><i>"I'm ok I'm so normal I'm so fine"</i></sub>
+  <sub><i>"For food. For your stomach."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779530135" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779543612" />
 </div>
 <!-- QUOTE_END -->
 
