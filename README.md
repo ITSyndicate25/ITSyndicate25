@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/7wthlxzkc03h1.png?t=1779642268" width="400" />
+  <img src="https://i.redd.it/laoat5vqji2h1.png?t=1779650412" width="400" />
   <br />
-  <sub><i>"It's literally pard of the job"</i></sub>
+  <sub><i>"Don't drink battery juice"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779642268" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779650412" />
 </div>
 <!-- QUOTE_END -->
 
