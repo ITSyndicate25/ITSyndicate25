@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/jb7a4hwp1j3h1.png?t=1779832008" width="400" />
+  <img src="https://i.redd.it/bketqvaglj3h1.png?t=1779837086" width="400" />
   <br />
-  <sub><i>"Just hits you like a brick : /"</i></sub>
+  <sub><i>"not proud of it"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779832008" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779837086" />
 </div>
 <!-- QUOTE_END -->
 
