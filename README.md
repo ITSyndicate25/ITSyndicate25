@@ -97,9 +97,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/1fk19jri5g3h1.gif?t=1779854508" width="400" />
+  <img src="https://i.redd.it/du2sskzi6u2h1.png?t=1779875770" width="400" />
   <br />
-  <sub><i>"Bro needs to take one for the team"</i></sub>
+  <sub><i>"The very idea of that sub makes no sense"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -111,7 +111,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779854508" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779875770" />
 </div>
 <!-- QUOTE_END -->
 
