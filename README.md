@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/oiotcrqhub3h1.png?t=1779940232" width="400" />
+  <img src="https://i.redd.it/27u003yhzp3h1.gif?t=1779955308" width="400" />
   <br />
-  <sub><i>"Jeses suiiiii"</i></sub>
+  <sub><i>"Years of pepper spray and baton training wasted"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779940232" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1779955308" />
 </div>
 <!-- QUOTE_END -->
 
