@@ -83,16 +83,6 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ITSyndicate25&theme=radical&no-frame=true&no-bg=true&row=2&column=4" />
-</div>
-
-<br />
-
----
-
 ## 😂 Random Meme
 
 <!-- MEME_START -->
