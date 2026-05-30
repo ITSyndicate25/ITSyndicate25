@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6e761cwrax3h1.png?t=1780153795" width="400" />
+  <img src="https://i.redd.it/z09git2fws3h1.png?t=1780160924" width="400" />
   <br />
-  <sub><i>""street smarts""</i></sub>
+  <sub><i>"And they say our life is hard.."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780153795" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780160924" />
 </div>
 <!-- QUOTE_END -->
 
