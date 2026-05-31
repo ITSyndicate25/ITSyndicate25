@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/tn4kna8lbc4h1.png?t=1780261304" width="400" />
+  <img src="https://i.redd.it/zvudkayhrf4h1.gif?t=1780268501" width="400" />
   <br />
-  <sub><i>""Oh, Copilot, please! This is getting awkward!""</i></sub>
+  <sub><i>"Bro found the workaround"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780261304" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780268501" />
 </div>
 <!-- QUOTE_END -->
 
