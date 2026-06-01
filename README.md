@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/msr5zb4wfp4h1.png?t=1780349713" width="400" />
+  <img src="https://i.redd.it/efcudyrbwj4h1.png?t=1780356500" width="400" />
   <br />
-  <sub><i>"Thanks for the advice, I guess..."</i></sub>
+  <sub><i>"I wish I could time travel"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780349713" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780356500" />
 </div>
 <!-- QUOTE_END -->
 
