@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/42i12ji41s4h1.gif?t=1780546511" width="400" />
+  <img src="https://i.redd.it/almubdbbhx4h1.png?t=1780567142" width="400" />
   <br />
-  <sub><i>"Realty memes"</i></sub>
+  <sub><i>"Microsoft Really Thought They Had a Mascot"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780546511" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780567142" />
 </div>
 <!-- QUOTE_END -->
 
