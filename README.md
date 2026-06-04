@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/9r6v962aa94h1.gif?t=1780530329" width="400" />
+  <img src="https://i.redd.it/42i12ji41s4h1.gif?t=1780546511" width="400" />
   <br />
-  <sub><i>"Unlucky"</i></sub>
+  <sub><i>"Realty memes"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780530329" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780546511" />
 </div>
 <!-- QUOTE_END -->
 
