@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/2q8t367nl95h1.png?t=1780631937" width="400" />
+  <img src="https://i.redd.it/dqmarn34gx4h1.png?t=1780647219" width="400" />
   <br />
-  <sub><i>"Coming back to gaming in my 40s"</i></sub>
+  <sub><i>"Oscars '22"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780631937" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780647219" />
 </div>
 <!-- QUOTE_END -->
 
