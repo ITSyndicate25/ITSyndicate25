@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/dqmarn34gx4h1.png?t=1780647219" width="400" />
+  <img src="https://i.redd.it/inwky03b9h4h1.png?t=1780663207" width="400" />
   <br />
-  <sub><i>"Oscars '22"</i></sub>
+  <sub><i>"Anime sauce?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780647219" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780663207" />
 </div>
 <!-- QUOTE_END -->
 
