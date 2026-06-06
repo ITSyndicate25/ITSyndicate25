@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/7h0zsvxqua5h1.gif?t=1780780024" width="400" />
+  <img src="https://i.redd.it/hco2p924575h1.png?t=1780787140" width="400" />
   <br />
-  <sub><i>"Our dog to my wife when she got home after a 36hr labor ending with C-section"</i></sub>
+  <sub><i>"Maybe we should start making our own snacks."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780780024" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780787140" />
 </div>
 <!-- QUOTE_END -->
 
