@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ubjmiloaui5h1.png?t=1780759075" width="400" />
+  <img src="https://i.redd.it/fp45f18n5n5h1.png?t=1780766234" width="400" />
   <br />
-  <sub><i>"i doubt that"</i></sub>
+  <sub><i>"I mean exactly"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780759075" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780766234" />
 </div>
 <!-- QUOTE_END -->
 
