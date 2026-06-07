@@ -87,7 +87,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/x79qq4cbqp5h1.png?t=1780840634" width="400" />
+  <img src="https://i.redd.it/x79qq4cbqp5h1.png?t=1780846005" width="400" />
   <br />
   <sub><i>"Scrooge was right to be an oyster"</i></sub>
 </div>
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780840634" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780846005" />
 </div>
 <!-- QUOTE_END -->
 
