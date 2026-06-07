@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/lhm8xfyw9v5h1.png?t=1780866948" width="400" />
+  <img src="https://i.redd.it/c25ttkwf4t5h1.png?t=1780873641" width="400" />
   <br />
-  <sub><i>"Ryan Gosling as just "Gosling""</i></sub>
+  <sub><i>"excel is the most premium skill"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780866948" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780873641" />
 </div>
 <!-- QUOTE_END -->
 
