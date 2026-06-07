@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hco2p924575h1.png?t=1780787140" width="400" />
+  <img src="https://i.redd.it/lzgdxfnx735h1.png?t=1780805339" width="400" />
   <br />
-  <sub><i>"Maybe we should start making our own snacks."</i></sub>
+  <sub><i>"Jarvis- feed my Pokemon and check my cholesterol"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780787140" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780805339" />
 </div>
 <!-- QUOTE_END -->
 
