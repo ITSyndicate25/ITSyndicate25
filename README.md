@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/c25ttkwf4t5h1.png?t=1780873641" width="400" />
+  <img src="https://i.redd.it/at5sr3dczx5h1.png?t=1780891991" width="400" />
   <br />
-  <sub><i>"excel is the most premium skill"</i></sub>
+  <sub><i>"I can't be the only one"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780873641" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780891991" />
 </div>
 <!-- QUOTE_END -->
 
