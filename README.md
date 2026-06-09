@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/4e0143p9d26h1.png?t=1780960339" width="400" />
+  <img src="https://i.redd.it/zq9oyuxdnm5h1.png?t=1780976502" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Biomechanical hazard"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780960339" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1780976502" />
 </div>
 <!-- QUOTE_END -->
 
