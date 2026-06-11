@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/5jbcgk24jp6h1.gif?t=1781209472" width="400" />
+  <img src="https://i.redd.it/ltuvalm4hx5h1.png?t=1781220284" width="400" />
   <br />
-  <sub><i>"They have no idea what they’re walking into, man…"</i></sub>
+  <sub><i>"I can cook, but saw this pic and had to meme it"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781209472" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781220284" />
 </div>
 <!-- QUOTE_END -->
 
