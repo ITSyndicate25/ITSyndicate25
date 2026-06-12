@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ltuvalm4hx5h1.png?t=1781220284" width="400" />
+  <img src="https://i.redd.it/m0v4c7szgr6h1.png?t=1781237482" width="400" />
   <br />
-  <sub><i>"I can cook, but saw this pic and had to meme it"</i></sub>
+  <sub><i>"We should call them Team rocket, and please don't buy from team rocket."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781220284" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781237482" />
 </div>
 <!-- QUOTE_END -->
 
