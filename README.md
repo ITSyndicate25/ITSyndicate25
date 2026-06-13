@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6jnman350z6h1.png?t=1781337234" width="400" />
+  <img src="https://i.redd.it/5jbcgk24jp6h1.gif?t=1781346697" width="400" />
   <br />
-  <sub><i>"Pasadena Police: "Horse play with a loaded firearm""</i></sub>
+  <sub><i>"They have no idea what they’re walking into, man…"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781337234" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781346697" />
 </div>
 <!-- QUOTE_END -->
 
