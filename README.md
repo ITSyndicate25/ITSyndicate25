@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/fkq68g1ay17h1.gif?t=1781359416" width="400" />
+  <img src="https://i.redd.it/6jnman350z6h1.png?t=1781371502" width="400" />
   <br />
-  <sub><i>"I won't do what you tell me"</i></sub>
+  <sub><i>"Pasadena Police: "Horse play with a loaded firearm""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781359416" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781371502" />
 </div>
 <!-- QUOTE_END -->
 
