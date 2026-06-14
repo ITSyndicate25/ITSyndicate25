@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/d3rda124q87h1.png?t=1781465969" width="400" />
+  <img src="https://i.redd.it/b2pcmq06nz6h1.gif?t=1781471688" width="400" />
   <br />
-  <sub><i>"Me irl"</i></sub>
+  <sub><i>"be careful what you wish for"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781465969" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781471688" />
 </div>
 <!-- QUOTE_END -->
 
