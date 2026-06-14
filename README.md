@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ba535mh9t17h1.png?t=1781410674" width="400" />
+  <img src="https://i.redd.it/f1j13ygjby6h1.png?t=1781429876" width="400" />
   <br />
-  <sub><i>"The amount of lurkers is too damn high, start posting!"</i></sub>
+  <sub><i>"Can't deny it if I don't remember it"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781410674" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781429876" />
 </div>
 <!-- QUOTE_END -->
 
