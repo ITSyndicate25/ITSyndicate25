@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/v1w66gy2bw6h1.png?t=1781457714" width="400" />
+  <img src="https://i.redd.it/d3rda124q87h1.png?t=1781465969" width="400" />
   <br />
-  <sub><i>"Latest Coffeezilla investigation video had me LMAO"</i></sub>
+  <sub><i>"Me irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781457714" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781465969" />
 </div>
 <!-- QUOTE_END -->
 
