@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/f1j13ygjby6h1.png?t=1781429876" width="400" />
+  <img src="https://i.redd.it/prf4vfqzny6h1.png?t=1781438313" width="400" />
   <br />
-  <sub><i>"Can't deny it if I don't remember it"</i></sub>
+  <sub><i>"Think about it."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781429876" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781438313" />
 </div>
 <!-- QUOTE_END -->
 
