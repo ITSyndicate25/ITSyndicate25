@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/06t4pl2y727h1.png?t=1781478641" width="400" />
+  <img src="https://i.redd.it/puvsmmqsk97h1.png?t=1781498457" width="400" />
   <br />
-  <sub><i>"People Sure Is Very Passionate About Planes"</i></sub>
+  <sub><i>"Procrastination"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781478641" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781498457" />
 </div>
 <!-- QUOTE_END -->
 
