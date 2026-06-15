@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ivqig7px927h1.gif?t=1781525975" width="400" />
+  <img src="https://i.redd.it/cqsv40fccb7h1.png?t=1781548114" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"7he fun is gone. Now 1t's just overkill."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781525975" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781548114" />
 </div>
 <!-- QUOTE_END -->
 
