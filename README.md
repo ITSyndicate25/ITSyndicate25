@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/s6tp77lq8g7h1.gif?t=1781629069" width="400" />
+  <img src="https://i.redd.it/cpbjqe86mk7h1.png?t=1781643239" width="400" />
   <br />
-  <sub><i>"If we win everyone calls it soccer until the next World Cup"</i></sub>
+  <sub><i>"me_irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781629069" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781643239" />
 </div>
 <!-- QUOTE_END -->
 
