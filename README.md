@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/g3xw9kukav7h1.png?t=1781720620" width="400" />
+  <img src="https://i.redd.it/to0nzup1r87h1.png?t=1781733701" width="400" />
   <br />
-  <sub><i>"What is actually going on over there"</i></sub>
+  <sub><i>""Please do not give birth in VC""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781720620" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781733701" />
 </div>
 <!-- QUOTE_END -->
 
