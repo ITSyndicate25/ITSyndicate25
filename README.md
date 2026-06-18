@@ -87,7 +87,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/pczgz7pnnu7h1.png?t=1781778228" width="400" />
+  <img src="https://i.redd.it/pczgz7pnnu7h1.png?t=1781796595" width="400" />
   <br />
   <sub><i>"LinkedIn users explaining why they're broke"</i></sub>
 </div>
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781778228" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781796595" />
 </div>
 <!-- QUOTE_END -->
 
