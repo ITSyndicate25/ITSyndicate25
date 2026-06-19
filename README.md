@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/t0kr2f6il38h1.gif?t=1781892036" width="400" />
+  <img src="https://i.redd.it/w13c7emil08h1.gif?t=1781903473" width="400" />
   <br />
-  <sub><i>"I don’t understand it"</i></sub>
+  <sub><i>"The food be too good"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781892036" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781903473" />
 </div>
 <!-- QUOTE_END -->
 
