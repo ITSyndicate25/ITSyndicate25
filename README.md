@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/qmtmjq1wqa8h1.png?t=1781997046" width="400" />
+  <img src="https://i.redd.it/ifzcglsg618h1.png?t=1782015872" width="400" />
   <br />
-  <sub><i>"He wanted to buy a new one because its dirty"</i></sub>
+  <sub><i>"Epstein? Who dat?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1781997046" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782015872" />
 </div>
 <!-- QUOTE_END -->
 
