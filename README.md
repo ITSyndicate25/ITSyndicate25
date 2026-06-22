@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/j8cinjuf1j8h1.gif?t=1782151953" width="400" />
+  <img src="https://i.redd.it/ykkflnsc0q8h1.png?t=1782165855" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Been a while since I've seen a "Evil (Person)" meme so I wanted to fix that"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782151953" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782165855" />
 </div>
 <!-- QUOTE_END -->
 
