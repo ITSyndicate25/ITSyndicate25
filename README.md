@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ds4zl13qrw7h1.gif?t=1782102442" width="400" />
+  <img src="https://i.redd.it/uy5gz3zrgp8h1.gif?t=1782130089" width="400" />
   <br />
-  <sub><i>"Germany has awakened a sleeping giant, and filled it with a terrible resolve"</i></sub>
+  <sub><i>"Hey, I'm hormuzin here........ Eh"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782102442" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782130089" />
 </div>
 <!-- QUOTE_END -->
 
