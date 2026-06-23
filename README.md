@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6njesysl9x8h1.png?t=1782186286" width="400" />
+  <img src="https://i.redd.it/6lk4zi6zki8h1.gif?t=1782201077" width="400" />
   <br />
-  <sub><i>"Why would Teddy do this 😢"</i></sub>
+  <sub><i>"Survey them again!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782186286" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782201077" />
 </div>
 <!-- QUOTE_END -->
 
