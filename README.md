@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/j4vpq17wbr8h1.png?t=1782226384" width="400" />
+  <img src="https://i.redd.it/znmwrwliq28h1.png?t=1782237494" width="400" />
   <br />
-  <sub><i>"What's a title?"</i></sub>
+  <sub><i>"Woah, lead singer with no bismuth drummer!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782226384" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782237494" />
 </div>
 <!-- QUOTE_END -->
 
