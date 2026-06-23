@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6lk4zi6zki8h1.gif?t=1782201077" width="400" />
+  <img src="https://i.redd.it/11oun6mi8t8h1.png?t=1782213553" width="400" />
   <br />
-  <sub><i>"Survey them again!"</i></sub>
+  <sub><i>"Take your time."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782201077" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782213553" />
 </div>
 <!-- QUOTE_END -->
 
