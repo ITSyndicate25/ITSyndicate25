@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/bp5vwyscrk8h1.png?t=1782323745" width="400" />
+  <img src="https://i.redd.it/w4bk5hifc59h1.gif?t=1782330664" width="400" />
   <br />
-  <sub><i>"We have to settle the Oceania debate once &amp; for all!"</i></sub>
+  <sub><i>""Divided we stand. United we fall" is their motto"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782323745" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782330664" />
 </div>
 <!-- QUOTE_END -->
 
