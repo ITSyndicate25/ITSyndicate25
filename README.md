@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/w4bk5hifc59h1.gif?t=1782330664" width="400" />
+  <img src="https://i.redd.it/rpwbla1jzm8h1.png?t=1782336258" width="400" />
   <br />
-  <sub><i>""Divided we stand. United we fall" is their motto"</i></sub>
+  <sub><i>"And what range does your diesel get with empty tank?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782330664" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782336258" />
 </div>
 <!-- QUOTE_END -->
 
