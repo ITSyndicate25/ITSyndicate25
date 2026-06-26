@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/2epg29tzmm9h1.png?t=1782503435" width="400" />
+  <img src="https://i.redd.it/or9iwnf27c9h1.gif?t=1782508825" width="400" />
   <br />
-  <sub><i>"Put my fries in the motherfucking bag!"</i></sub>
+  <sub><i>"Can't have shit lasting too long now."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782503435" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782508825" />
 </div>
 <!-- QUOTE_END -->
 
