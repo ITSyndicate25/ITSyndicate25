@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/7ukq9daoit9h1.png?t=1782601425" width="400" />
+  <img src="https://i.redd.it/7li5dlwtmt9h1.png?t=1782619278" width="400" />
   <br />
-  <sub><i>"Financial advisors say you need 3-6 months of expenses saved. I have 3-6 hours."</i></sub>
+  <sub><i>"I used to skip these songs."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782601425" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782619278" />
 </div>
 <!-- QUOTE_END -->
 
