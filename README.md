@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/szo8k7e53v9h1.png?t=1782731025" width="400" />
+  <img src="https://i.redd.it/5bd6zjxta49h1.png?t=1782748240" width="400" />
   <br />
-  <sub><i>"Those data centers are not cheap"</i></sub>
+  <sub><i>""I make no exceptions.""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782731025" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782748240" />
 </div>
 <!-- QUOTE_END -->
 
