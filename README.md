@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/bjukr99k96ah1.png?t=1782850013" width="400" />
+  <img src="https://i.redd.it/f0wmx8ym0gah1.png?t=1782861303" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"That doesn't bother me anymore."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782850013" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782861303" />
 </div>
 <!-- QUOTE_END -->
 
