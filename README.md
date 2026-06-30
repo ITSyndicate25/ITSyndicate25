@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/v8hiyxupzaah1.png?t=1782791493" width="400" />
+  <img src="https://i.redd.it/gjhvycnjf7ah1.gif?t=1782806105" width="400" />
   <br />
-  <sub><i>"Yeah, sure buddy..."</i></sub>
+  <sub><i>"Goldfish memory strikes again"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782791493" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782806105" />
 </div>
 <!-- QUOTE_END -->
 
