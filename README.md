@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/tdpavolpt9ah1.gif?t=1782899476" width="400" />
+  <img src="https://i.redd.it/t9owl5x1w3ah1.png?t=1782909280" width="400" />
   <br />
-  <sub><i>"Shoot your shot man 👍"</i></sub>
+  <sub><i>"excuse me sir"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782899476" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782909280" />
 </div>
 <!-- QUOTE_END -->
 
