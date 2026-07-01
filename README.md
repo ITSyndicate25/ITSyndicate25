@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/u3ihd52toeah1.png?t=1782923257" width="400" />
+  <img src="https://i.redd.it/t9owl5x1w3ah1.png?t=1782935920" width="400" />
   <br />
-  <sub><i>"It also contains protein from 10-20% of it's dry weight"</i></sub>
+  <sub><i>"excuse me sir"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782923257" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782935920" />
 </div>
 <!-- QUOTE_END -->
 
