@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/tmytirwdkoah1.png?t=1782942194" width="400" />
+  <img src="https://i.redd.it/jkcnptpfht9h1.png?t=1782947861" width="400" />
   <br />
-  <sub><i>"Getting my independence day memes ready. What do ya got that says what it needs to say?"</i></sub>
+  <sub><i>"This should be fun"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782942194" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782947861" />
 </div>
 <!-- QUOTE_END -->
 
