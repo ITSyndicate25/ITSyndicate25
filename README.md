@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/oy5xj9v819ah1.png?t=1782963975" width="400" />
+  <img src="https://i.redd.it/9yzr8hgmhgah1.png?t=1782977649" width="400" />
   <br />
-  <sub><i>"y2k child syndrome"</i></sub>
+  <sub><i>"If you bother to read the title comment lyric of the best part of your faverote song."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782963975" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1782977649" />
 </div>
 <!-- QUOTE_END -->
 
