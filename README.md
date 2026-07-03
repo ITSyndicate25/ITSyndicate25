@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/22xv15aylpah1.png?t=1783075061" width="400" />
+  <img src="https://i.redd.it/teo24ik8rvah1.png?t=1783087771" width="400" />
   <br />
-  <sub><i>"Empire State."</i></sub>
+  <sub><i>"I'm onto you, Bruce"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783075061" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783087771" />
 </div>
 <!-- QUOTE_END -->
 
