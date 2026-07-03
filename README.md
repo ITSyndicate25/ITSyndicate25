@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/0crjfuj1veah1.png?t=1783106724" width="400" />
+  <img src="https://i.redd.it/f5s4v8uqf2bh1.png?t=1783112936" width="400" />
   <br />
-  <sub><i>"Into the fires of Mount Doom with it!"</i></sub>
+  <sub><i>"No need to find waldo now"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783106724" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783112936" />
 </div>
 <!-- QUOTE_END -->
 
