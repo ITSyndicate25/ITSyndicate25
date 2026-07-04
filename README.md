@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/p254ri2nbsah1.png?t=1783198759" width="400" />
+  <img src="https://i.redd.it/ox5ab1ta49bh1.png?t=1783205939" width="400" />
   <br />
-  <sub><i>"Lol why would I be scared of sin(theta)"</i></sub>
+  <sub><i>"I can't think of one"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783198759" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783205939" />
 </div>
 <!-- QUOTE_END -->
 
