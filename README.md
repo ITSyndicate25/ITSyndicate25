@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ede7tdit74bh1.png?t=1783172222" width="400" />
+  <img src="https://i.redd.it/r428iwim0uah1.png?t=1783177588" width="400" />
   <br />
-  <sub><i>"Who Would Win (Solla Sollew Edition)"</i></sub>
+  <sub><i>"genuinely 🥀"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783172222" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783177588" />
 </div>
 <!-- QUOTE_END -->
 
