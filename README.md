@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/2jk4586ldxah1.gif?t=1783258998" width="400" />
+  <img src="https://i.redd.it/6ly9bqb2qcbh1.png?t=1783264425" width="400" />
   <br />
-  <sub><i>"Heat (1995)"</i></sub>
+  <sub><i>"Because Google cares about us"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783258998" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783264425" />
 </div>
 <!-- QUOTE_END -->
 
