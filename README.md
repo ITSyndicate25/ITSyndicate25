@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/19zsrs6ipbbh1.png?t=1783236496" width="400" />
+  <img src="https://i.redd.it/9cru8q2nq9bh1.png?t=1783246566" width="400" />
   <br />
-  <sub><i>"WORLDS ARE COLLIDING"</i></sub>
+  <sub><i>"panik"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783236496" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783246566" />
 </div>
 <!-- QUOTE_END -->
 
