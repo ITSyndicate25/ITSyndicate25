@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/fr6dzod0w7bh1.png?t=1783345640" width="400" />
+  <img src="https://i.redd.it/0gsnwkkqkuah1.png?t=1783356751" width="400" />
   <br />
-  <sub><i>"It do be like that"</i></sub>
+  <sub><i>"Too hot for that"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783345640" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783356751" />
 </div>
 <!-- QUOTE_END -->
 
