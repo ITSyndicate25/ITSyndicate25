@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/tpyfpxcju8bh1.png?t=1783410038" width="400" />
+  <img src="https://i.redd.it/6zjmtyp5jlbh1.png?t=1783422523" width="400" />
   <br />
-  <sub><i>"Don't mock my virginity!"</i></sub>
+  <sub><i>"Modern love"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783410038" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783422523" />
 </div>
 <!-- QUOTE_END -->
 
