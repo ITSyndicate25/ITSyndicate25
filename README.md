@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/69vq7sqkaobh1.png?t=1783379394" width="400" />
+  <img src="https://i.redd.it/klrug5kvvnbh1.png?t=1783395329" width="400" />
   <br />
-  <sub><i>"Hide the pain Jane?"</i></sub>
+  <sub><i>"How most gacha game fans and companies genuinely behave:"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783379394" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783395329" />
 </div>
 <!-- QUOTE_END -->
 
