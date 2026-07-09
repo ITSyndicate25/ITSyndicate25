@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/vsf8is60ilbh1.png?t=1783610016" width="400" />
+  <img src="https://i.redd.it/tselh3yk7ubh1.png?t=1783619846" width="400" />
   <br />
-  <sub><i>"I’m employed, in a way"</i></sub>
+  <sub><i>"brain dead"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783610016" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783619846" />
 </div>
 <!-- QUOTE_END -->
 
