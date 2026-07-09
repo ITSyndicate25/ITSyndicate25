@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/g628j3ohllbh1.png?t=1783552170" width="400" />
+  <img src="https://i.redd.it/7erpc69b5wbh1.png?t=1783567718" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Oh he is doomed"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783552170" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783567718" />
 </div>
 <!-- QUOTE_END -->
 
