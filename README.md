@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/kpmjky0wesbh1.png?t=1783594552" width="400" />
+  <img src="https://i.redd.it/vsf8is60ilbh1.png?t=1783610016" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"I’m employed, in a way"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783594552" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783610016" />
 </div>
 <!-- QUOTE_END -->
 
