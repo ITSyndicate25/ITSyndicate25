@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/amw5kz97a0ch1.gif?t=1783638803" width="400" />
+  <img src="https://i.redd.it/2av0v4pph4ch1.png?t=1783654264" width="400" />
   <br />
-  <sub><i>"me irl"</i></sub>
+  <sub><i>""It's not about getting your personal information, my princess Vespa""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783638803" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783654264" />
 </div>
 <!-- QUOTE_END -->
 
