@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hyh9hbuzqdch1.png?t=1783750480" width="400" />
+  <img src="https://i.redd.it/6iw8v3cgc4ch1.png?t=1783762730" width="400" />
   <br />
-  <sub><i>"Windows 11"</i></sub>
+  <sub><i>"One of these gets celebrated, the other gets pitied."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783750480" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783762730" />
 </div>
 <!-- QUOTE_END -->
 
