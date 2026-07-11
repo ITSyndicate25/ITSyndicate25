@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/nmjkrjzoyubh1.gif?t=1783724393" width="400" />
+  <img src="https://i.redd.it/5v4iocvozpbh1.gif?t=1783738021" width="400" />
   <br />
-  <sub><i>"Absolute madlads"</i></sub>
+  <sub><i>"Back home you go! Wait, you're already home..."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783724393" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783738021" />
 </div>
 <!-- QUOTE_END -->
 
