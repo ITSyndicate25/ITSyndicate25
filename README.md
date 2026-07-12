@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/fl5qw45xrrch1.png?t=1783883267" width="400" />
+  <img src="https://i.redd.it/5njc1dwnpuch1.gif?t=1783889509" width="400" />
   <br />
-  <sub><i>"It's all right now!"</i></sub>
+  <sub><i>"Couldn’t Find a Gif of Dancing Ladybugs"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783883267" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783889509" />
 </div>
 <!-- QUOTE_END -->
 
