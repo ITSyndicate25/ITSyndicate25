@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/4xjsqdivlmch1.png?t=1783849914" width="400" />
+  <img src="https://i.redd.it/sp41issc77ch1.png?t=1783854693" width="400" />
   <br />
-  <sub><i>"Time to feed the creature, i guess"</i></sub>
+  <sub><i>"Always bet against reddit. Enjoy Wolverine"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783849914" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783854693" />
 </div>
 <!-- QUOTE_END -->
 
