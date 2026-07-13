@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/mwqgtuyrkgch1.png?t=1783941196" width="400" />
+  <img src="https://i.redd.it/46if7q87ehch1.gif?t=1783953467" width="400" />
   <br />
-  <sub><i>"Me during the First YouTuber War in 2054:"</i></sub>
+  <sub><i>"Me irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783941196" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783953467" />
 </div>
 <!-- QUOTE_END -->
 
