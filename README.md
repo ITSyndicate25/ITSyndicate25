@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/4f61f1ekzuch1.png?t=1783896704" width="400" />
+  <img src="https://i.redd.it/snlkqzihdpch1.png?t=1783911401" width="400" />
   <br />
-  <sub><i>"Michael orthodox"</i></sub>
+  <sub><i>"What you think you're going to look like as a cyborg..."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783896704" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783911401" />
 </div>
 <!-- QUOTE_END -->
 
