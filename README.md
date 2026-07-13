@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/8bu60hsvowch1.png?t=1783925667" width="400" />
+  <img src="https://i.redd.it/mwqgtuyrkgch1.png?t=1783941196" width="400" />
   <br />
-  <sub><i>"Dem bones, dem bones, dem treat bones!"</i></sub>
+  <sub><i>"Me during the First YouTuber War in 2054:"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783925667" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783941196" />
 </div>
 <!-- QUOTE_END -->
 
