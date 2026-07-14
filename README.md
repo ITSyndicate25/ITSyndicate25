@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/617kf6qc5pch1.png?t=1783983409" width="400" />
+  <img src="https://i.redd.it/u4h2rlzqk3dh1.gif?t=1783996681" width="400" />
   <br />
-  <sub><i>"Reddit is going to get out of control"</i></sub>
+  <sub><i>"“What did you just say?”"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783983409" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1783996681" />
 </div>
 <!-- QUOTE_END -->
 
