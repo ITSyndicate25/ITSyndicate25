@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/06eyuomo2adh1.png?t=1784135946" width="400" />
+  <img src="https://i.redd.it/7yqcg6hm8edh1.png?t=1784142838" width="400" />
   <br />
-  <sub><i>"The messiah"</i></sub>
+  <sub><i>"Fork in kitchen"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784135946" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784142838" />
 </div>
 <!-- QUOTE_END -->
 
