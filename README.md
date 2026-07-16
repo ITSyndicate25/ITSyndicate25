@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/tnjrn79c2bdh1.png?t=1784229232" width="400" />
+  <img src="https://i.redd.it/mvk947956gdh1.gif?t=1784235679" width="400" />
   <br />
-  <sub><i>"I'm rich!"</i></sub>
+  <sub><i>"Age old habit"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784229232" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784235679" />
 </div>
 <!-- QUOTE_END -->
 
