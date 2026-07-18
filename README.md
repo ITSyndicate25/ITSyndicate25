@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/9zx3207a5sdh1.png?t=1784328716" width="400" />
+  <img src="https://i.redd.it/tnjrn79c2bdh1.png?t=1784342268" width="400" />
   <br />
-  <sub><i>"I liked the frame from Ichi the Witch and turned it into a reaction image"</i></sub>
+  <sub><i>"I'm rich!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784328716" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784342268" />
 </div>
 <!-- QUOTE_END -->
 
