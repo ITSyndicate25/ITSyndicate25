@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/it0fl6qpkgdh1.png?t=1784380727" width="400" />
+  <img src="https://i.redd.it/04dla9evesdh1.png?t=1784386471" width="400" />
   <br />
-  <sub><i>"Every single time"</i></sub>
+  <sub><i>"Toph wishes to be like me"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784380727" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784386471" />
 </div>
 <!-- QUOTE_END -->
 
