@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/qhml9mgvp3eh1.png?t=1784581978" width="400" />
+  <img src="https://i.redd.it/0evxzjol47eh1.png?t=1784588508" width="400" />
   <br />
-  <sub><i>"Crazy that my graduating class of 2022 was the last generation that finished high school education completely without mainstream generative AI"</i></sub>
+  <sub><i>"Me irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784581978" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784588508" />
 </div>
 <!-- QUOTE_END -->
 
