@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/sr6rigvs9ieh1.gif?t=1784642072" width="400" />
+  <img src="https://i.redd.it/a2gg9fl0raeh1.png?t=1784648703" width="400" />
   <br />
-  <sub><i>"These wc casuals smh"</i></sub>
+  <sub><i>"Ujumf*"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784642072" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784648703" />
 </div>
 <!-- QUOTE_END -->
 
