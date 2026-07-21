@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/a2gg9fl0raeh1.png?t=1784648703" width="400" />
+  <img src="https://i.redd.it/9ovegtcy19eh1.png?t=1784654517" width="400" />
   <br />
-  <sub><i>"Ujumf*"</i></sub>
+  <sub><i>"Meanwhile Argentina's be stressing"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784648703" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784654517" />
 </div>
 <!-- QUOTE_END -->
 
