@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/z5z98co02feh1.png?t=1784661929" width="400" />
+  <img src="https://i.redd.it/5li6shfxmkeh1.gif?t=1784668271" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"It was like watching Spain vs The Royal Academy"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784661929" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784668271" />
 </div>
 <!-- QUOTE_END -->
 
