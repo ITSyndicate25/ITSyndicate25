@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/k2ri3lvpioeh1.png?t=1784728761" width="400" />
+  <img src="https://i.redd.it/r5epb5j6eheh1.gif?t=1784735232" width="400" />
   <br />
-  <sub><i>"soccer goal!"</i></sub>
+  <sub><i>"78 percent"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784728761" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784735232" />
 </div>
 <!-- QUOTE_END -->
 
