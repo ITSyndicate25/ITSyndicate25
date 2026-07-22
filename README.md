@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/h4ny2bomymeh1.png?t=1784715968" width="400" />
+  <img src="https://i.redd.it/k2ri3lvpioeh1.png?t=1784728761" width="400" />
   <br />
-  <sub><i>"My Mom when i laugh at my phone"</i></sub>
+  <sub><i>"soccer goal!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784715968" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784728761" />
 </div>
 <!-- QUOTE_END -->
 
