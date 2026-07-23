@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/qmg2lrc5uneh1.png?t=1784827417" width="400" />
+  <img src="https://i.redd.it/vkm1g15j0aeh1.png?t=1784834414" width="400" />
   <br />
-  <sub><i>"Halo deserved better"</i></sub>
+  <sub><i>"Call an ambulance . . but not for me!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784827417" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784834414" />
 </div>
 <!-- QUOTE_END -->
 
