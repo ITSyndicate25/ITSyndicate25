@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/xhaywcuykkeh1.png?t=1784802255" width="400" />
+  <img src="https://i.redd.it/8s5ydjjdimeh1.gif?t=1784815448" width="400" />
   <br />
-  <sub><i>""He's gonna be like Iron Man guys""</i></sub>
+  <sub><i>"About to get some tea"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784802255" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784815448" />
 </div>
 <!-- QUOTE_END -->
 
