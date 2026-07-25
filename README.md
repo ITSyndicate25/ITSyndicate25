@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/e4qrex1oq6fh1.png?t=1784986632" width="400" />
+  <img src="https://i.redd.it/9amg2a7q19fh1.png?t=1784991838" width="400" />
   <br />
-  <sub><i>"Getting up early sucks but..."</i></sub>
+  <sub><i>"It's fineeeeeeeeeeeeeeeeeee"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784986632" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784991838" />
 </div>
 <!-- QUOTE_END -->
 
