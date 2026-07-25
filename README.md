@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/yu3drh0edcfh1.png?t=1785006561" width="400" />
+  <img src="https://i.redd.it/cn45lkf9nefh1.png?t=1785012865" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"I refuse to read the terms and conditions, but I click “Accept” with the confidence of a lawyer who"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785006561" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785012865" />
 </div>
 <!-- QUOTE_END -->
 
