@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/9amg2a7q19fh1.png?t=1784991838" width="400" />
+  <img src="https://i.redd.it/u0eka6ioddfh1.png?t=1784998788" width="400" />
   <br />
-  <sub><i>"It's fineeeeeeeeeeeeeeeeeee"</i></sub>
+  <sub><i>"Can't catch a break!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784991838" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1784998788" />
 </div>
 <!-- QUOTE_END -->
 
