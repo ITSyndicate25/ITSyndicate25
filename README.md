@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/mrg2pi0nwefh1.png?t=1785047863" width="400" />
+  <img src="https://i.redd.it/jkexolz9egfh1.gif?t=1785060098" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Without those words, either really cool or really lame."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785047863" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785060098" />
 </div>
 <!-- QUOTE_END -->
 
