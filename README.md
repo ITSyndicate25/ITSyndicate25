@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/merzqi9yqkfh1.png?t=1785180907" width="400" />
+  <img src="https://i.redd.it/2f0cgaijqefh1.png?t=1785186722" width="400" />
   <br />
-  <sub><i>"Shower Thought"</i></sub>
+  <sub><i>"I love being an equalist who doesn't engage himself in drama 24/7"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785180907" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785186722" />
 </div>
 <!-- QUOTE_END -->
 
