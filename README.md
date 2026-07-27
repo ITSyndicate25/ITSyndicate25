@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/2f0cgaijqefh1.png?t=1785186722" width="400" />
+  <img src="https://i.redd.it/xh6hc1wq4mfh1.png?t=1785193390" width="400" />
   <br />
-  <sub><i>"I love being an equalist who doesn't engage himself in drama 24/7"</i></sub>
+  <sub><i>"p*rn is gross (made while post-nut-depressed)"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785186722" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785193390" />
 </div>
 <!-- QUOTE_END -->
 
