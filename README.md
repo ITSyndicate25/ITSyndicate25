@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/jhbv6bkcgweh1.png?t=1785163121" width="400" />
+  <img src="https://i.redd.it/nrytzrbzdsfh1.png?t=1785174195" width="400" />
   <br />
-  <sub><i>"Infinite make out glitch."</i></sub>
+  <sub><i>"Literally just happened"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785163121" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785174195" />
 </div>
 <!-- QUOTE_END -->
 
