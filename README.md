@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/c0edwh5c00fh1.gif?t=1785206371" width="400" />
+  <img src="https://i.redd.it/0zo5ajfi5ufh1.png?t=1785220075" width="400" />
   <br />
-  <sub><i>"american history"</i></sub>
+  <sub><i>"Nothing builds workplace unity faster than collectively realizing the invite was unnecessary."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785206371" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785220075" />
 </div>
 <!-- QUOTE_END -->
 
