@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/1fpainmo9vfh1.png?t=1785260189" width="400" />
+  <img src="https://i.redd.it/e29jyridwyfh1.png?t=1785266790" width="400" />
   <br />
-  <sub><i>"How do you think he responded"</i></sub>
+  <sub><i>"Every decade has its own "fake detector""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785260189" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785266790" />
 </div>
 <!-- QUOTE_END -->
 
