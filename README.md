@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/3v8aonjy7tfh1.gif?t=1785334366" width="400" />
+  <img src="https://i.redd.it/9bi7xsamazfh1.png?t=1785345373" width="400" />
   <br />
-  <sub><i>"thank you, that guy from the real world"</i></sub>
+  <sub><i>"Why I stopped talking about my feelings"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785334366" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785345373" />
 </div>
 <!-- QUOTE_END -->
 
