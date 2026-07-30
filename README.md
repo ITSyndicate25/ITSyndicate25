@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/whodlz9328gh1.gif?t=1785378678" width="400" />
+  <img src="https://i.redd.it/7vvqmox79zfh1.png?t=1785392970" width="400" />
   <br />
-  <sub><i>"[OC] make it sing."</i></sub>
+  <sub><i>"LinkedIn is Instagram for careers"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785378678" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785392970" />
 </div>
 <!-- QUOTE_END -->
 
