@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/7vvqmox79zfh1.png?t=1785392970" width="400" />
+  <img src="https://i.redd.it/py2wbcopbagh1.png?t=1785407129" width="400" />
   <br />
-  <sub><i>"LinkedIn is Instagram for careers"</i></sub>
+  <sub><i>"Nobody warned him adulthood had in-app purchases."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785392970" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785407129" />
 </div>
 <!-- QUOTE_END -->
 
