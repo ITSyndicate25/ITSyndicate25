@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/mbpvvdno4dgh1.png?t=1785466581" width="400" />
+  <img src="https://i.redd.it/4qnyn5lmn2gh1.gif?t=1785480283" width="400" />
   <br />
-  <sub><i>"youtube's been this way for years"</i></sub>
+  <sub><i>"can't believe this was the real context of this scene"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785466581" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785480283" />
 </div>
 <!-- QUOTE_END -->
 
