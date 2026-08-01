@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/jsnert0veogh1.png?t=1785617643" width="400" />
+  <img src="https://i.redd.it/at6716h7wsgh1.gif?t=1785624993" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"2 times I saw youtubers missing "Stephanie who sucks like a vacuum" line in gta 4"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785617643" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785624993" />
 </div>
 <!-- QUOTE_END -->
 
