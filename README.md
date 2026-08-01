@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ljh0j6r5tzfh1.png?t=1785552960" width="400" />
+  <img src="https://i.redd.it/woaq9r28eegh1.gif?t=1785565815" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"its over. i have wasted my life"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785552960" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785565815" />
 </div>
 <!-- QUOTE_END -->
 
