@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/5fjdi7m39egh1.png?t=1785596464" width="400" />
+  <img src="https://i.redd.it/jcl7h8gqupgh1.png?t=1785603731" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"Beretta's older than my country's official funding, too"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785596464" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785603731" />
 </div>
 <!-- QUOTE_END -->
 
