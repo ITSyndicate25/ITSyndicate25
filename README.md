@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/erv2od6x7hgh1.png?t=1785690054" width="400" />
+  <img src="https://i.redd.it/watr8yfattgh1.gif?t=1785697944" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"All superhero movies make me feel like a superhero"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785690054" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785697944" />
 </div>
 <!-- QUOTE_END -->
 
