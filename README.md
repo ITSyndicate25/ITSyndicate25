@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/uwezvjga3ugh1.png?t=1785791032" width="400" />
+  <img src="https://i.redd.it/ate2hv4mzqgh1.gif?t=1785798113" width="400" />
   <br />
-  <sub><i>"Conplan 8888"</i></sub>
+  <sub><i>"just a little documentary"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785791032" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785798113" />
 </div>
 <!-- QUOTE_END -->
 
