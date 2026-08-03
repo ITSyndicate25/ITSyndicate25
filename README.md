@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6pk7f9mcqmgh1.png?t=1785779530" width="400" />
+  <img src="https://i.redd.it/o8tmu4vbplgh1.png?t=1785785933" width="400" />
   <br />
-  <sub><i>"Skill issue"</i></sub>
+  <sub><i>"the machines know i'm bald too"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785779530" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785785933" />
 </div>
 <!-- QUOTE_END -->
 
