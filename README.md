@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/gxis3mkofdgh1.png?t=1785840046" width="400" />
+  <img src="https://i.redd.it/8i9a7iuj8ygh1.png?t=1785853087" width="400" />
   <br />
-  <sub><i>""HOW DARE YOU SAY ANYTHING BAD ABOU...! Oh my god, you're right...""</i></sub>
+  <sub><i>"This isn't TikTok, bro 💀"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785840046" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785853087" />
 </div>
 <!-- QUOTE_END -->
 
