@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/dvzcpv7mq7hh1.gif?t=1785884666" width="400" />
+  <img src="https://i.redd.it/9kdi4bkgvfhh1.gif?t=1785897537" width="400" />
   <br />
-  <sub><i>"We're so back. It's so over. We're so back."</i></sub>
+  <sub><i>"It's fun to discover at a minute to midnight"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785884666" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1785897537" />
 </div>
 <!-- QUOTE_END -->
 
