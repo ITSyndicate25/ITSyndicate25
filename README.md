@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/4uk4qcq90nhh1.gif?t=1786087074" width="400" />
+  <img src="https://i.redd.it/q1ccj1zzqshh1.gif?t=1786093223" width="400" />
   <br />
-  <sub><i>"Small town cops really do suck"</i></sub>
+  <sub><i>"weaponized incompetence?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786087074" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786093223" />
 </div>
 <!-- QUOTE_END -->
 
