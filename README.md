@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/743vz9v1e6ih1.png?t=1786221060" width="400" />
+  <img src="https://i.redd.it/uh3ian7w47ih1.gif?t=1786228233" width="400" />
   <br />
-  <sub><i>"A Tale of Two Decades [OC]"</i></sub>
+  <sub><i>"it never ends"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786221060" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786228233" />
 </div>
 <!-- QUOTE_END -->
 
