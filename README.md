@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hzj8jkggt2ih1.png?t=1786185280" width="400" />
+  <img src="https://i.redd.it/5mf7hw7aj2ih1.png?t=1786193440" width="400" />
   <br />
-  <sub><i>"The Goon Squad."</i></sub>
+  <sub><i>"Free peguin"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786185280" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786193440" />
 </div>
 <!-- QUOTE_END -->
 
