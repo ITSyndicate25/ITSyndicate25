@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/bbvmgs5dn7ih1.png?t=1786265049" width="400" />
+  <img src="https://i.redd.it/njcraizkxaih1.png?t=1786271759" width="400" />
   <br />
-  <sub><i>"Sandboxels moment."</i></sub>
+  <sub><i>"0taku Eureka Moment:"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786265049" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786271759" />
 </div>
 <!-- QUOTE_END -->
 
