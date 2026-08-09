@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/bbvmgs5dn7ih1.png?t=1786251963" width="400" />
+  <img src="https://i.redd.it/rz1rwwo0w5ih1.png?t=1786258703" width="400" />
   <br />
-  <sub><i>"Sandboxels moment."</i></sub>
+  <sub><i>"No no no, say that again being ugly and overweight"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786251963" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786258703" />
 </div>
 <!-- QUOTE_END -->
 
