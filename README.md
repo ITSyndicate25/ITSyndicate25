@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/njcraizkxaih1.png?t=1786271759" width="400" />
+  <img src="https://i.redd.it/w747d0jm0thh1.png?t=1786279976" width="400" />
   <br />
-  <sub><i>"0taku Eureka Moment:"</i></sub>
+  <sub><i>"the year is 2039. i'm eating cheese from a can."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786271759" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786279976" />
 </div>
 <!-- QUOTE_END -->
 
