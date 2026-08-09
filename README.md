@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/q7bmv8a29dih1.png?t=1786293398" width="400" />
+  <img src="https://i.redd.it/xw3lebqfcbih1.png?t=1786300925" width="400" />
   <br />
-  <sub><i>"Fucking Hadal Amphipodes are the coolest thing to have ever existed"</i></sub>
+  <sub><i>"And I Love Her...."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786293398" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786300925" />
 </div>
 <!-- QUOTE_END -->
 
