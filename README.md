@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/vuohjyiu9hih1.png?t=1786353796" width="400" />
+  <img src="https://i.redd.it/l53k8l3f6iih1.png?t=1786360181" width="400" />
   <br />
-  <sub><i>"It was all a big fat lie"</i></sub>
+  <sub><i>"I don't know how it happens"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786353796" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786360181" />
 </div>
 <!-- QUOTE_END -->
 
