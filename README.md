@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hobftryasohh1.png?t=1786388339" width="400" />
+  <img src="https://i.redd.it/u8u2c4p3skih1.png?t=1786394582" width="400" />
   <br />
-  <sub><i>"What is a title?"</i></sub>
+  <sub><i>"literally what true friendship looks like"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786388339" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786394582" />
 </div>
 <!-- QUOTE_END -->
 
