@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/l758et2dtoih1.png?t=1786467477" width="400" />
+  <img src="https://i.redd.it/f91nxnj67kih1.png?t=1786481175" width="400" />
   <br />
-  <sub><i>"You gotta love it..."</i></sub>
+  <sub><i>"feel really sad now."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786467477" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786481175" />
 </div>
 <!-- QUOTE_END -->
 
