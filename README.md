@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/swd2oeb2m4ih1.png?t=1786445446" width="400" />
+  <img src="https://i.redd.it/0sm18akk5pih1.png?t=1786453705" width="400" />
   <br />
-  <sub><i>"It's all a conspiracy"</i></sub>
+  <sub><i>"A title of some sort some of title A"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786445446" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786453705" />
 </div>
 <!-- QUOTE_END -->
 
