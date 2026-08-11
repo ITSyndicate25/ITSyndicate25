@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/n9mdi1u69vhh1.png?t=1786419952" width="400" />
+  <img src="https://i.redd.it/3z8lh31jszhh1.png?t=1786424989" width="400" />
   <br />
-  <sub><i>"Who gave him the mic?"</i></sub>
+  <sub><i>"The thought that counts"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786419952" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786424989" />
 </div>
 <!-- QUOTE_END -->
 
