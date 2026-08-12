@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/cnaaujo2ifih1.png?t=1786488165" width="400" />
+  <img src="https://i.redd.it/gjx330ltorih1.gif?t=1786500213" width="400" />
   <br />
-  <sub><i>"Monday fashion show"</i></sub>
+  <sub><i>"They correct everything equally"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786488165" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786500213" />
 </div>
 <!-- QUOTE_END -->
 
