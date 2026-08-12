@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/keamj05mgtih1.gif?t=1786540343" width="400" />
+  <img src="https://i.redd.it/t0whc4ihfbih1.png?t=1786546677" width="400" />
   <br />
-  <sub><i>"Pizza will be done in 25 minutes"</i></sub>
+  <sub><i>"Somebody told me to post this here"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786540343" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786546677" />
 </div>
 <!-- QUOTE_END -->
 
