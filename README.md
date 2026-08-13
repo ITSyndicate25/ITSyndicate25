@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/iglqzs498xih1.png?t=1786633124" width="400" />
+  <img src="https://i.redd.it/fsxorj5f1yih1.png?t=1786640227" width="400" />
   <br />
-  <sub><i>"audiophile"</i></sub>
+  <sub><i>"This song's plays are booming every time"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786633124" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786640227" />
 </div>
 <!-- QUOTE_END -->
 
