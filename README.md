@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/lrvisi8zisih1.png?t=1786586722" width="400" />
+  <img src="https://i.redd.it/407g0rhx81jh1.gif?t=1786599640" width="400" />
   <br />
-  <sub><i>"They call me: The Understander"</i></sub>
+  <sub><i>"me irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786586722" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786599640" />
 </div>
 <!-- QUOTE_END -->
 
