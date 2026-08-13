@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/e54416haa0jh1.png?t=1786612401" width="400" />
+  <img src="https://i.redd.it/cz1ic6ck2tih1.png?t=1786618858" width="400" />
   <br />
-  <sub><i>"It's for very important work"</i></sub>
+  <sub><i>"every time"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786612401" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786618858" />
 </div>
 <!-- QUOTE_END -->
 
