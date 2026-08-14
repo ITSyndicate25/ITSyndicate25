@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/uo5qsvf5p2jh1.png?t=1786726457" width="400" />
+  <img src="https://i.redd.it/qxu0hc4ij2jh1.png?t=1786733744" width="400" />
   <br />
-  <sub><i>"TitleltiT"</i></sub>
+  <sub><i>"you're going have try harder than that at these prices"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786726457" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786733744" />
 </div>
 <!-- QUOTE_END -->
 
