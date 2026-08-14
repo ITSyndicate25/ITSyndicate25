@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/49848ni97ajh1.png?t=1786705084" width="400" />
+  <img src="https://i.redd.it/qrwtgt9s56jh1.png?t=1786712935" width="400" />
   <br />
-  <sub><i>"That was all they needed"</i></sub>
+  <sub><i>"and be happy"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786705084" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786712935" />
 </div>
 <!-- QUOTE_END -->
 
