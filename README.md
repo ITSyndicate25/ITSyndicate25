@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/7qmjbjjiv7jh1.gif?t=1786685875" width="400" />
+  <img src="https://i.redd.it/4lzt8bryhqih1.gif?t=1786692673" width="400" />
   <br />
-  <sub><i>"Should’ve went to law school buddy"</i></sub>
+  <sub><i>"He’s preparing for Christmas Eve, obviously"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786685875" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786692673" />
 </div>
 <!-- QUOTE_END -->
 
