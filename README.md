@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hv73zjfh1kjh1.png?t=1786905031" width="400" />
+  <img src="https://i.redd.it/ejcdafhyf2jh1.png?t=1786911814" width="400" />
   <br />
-  <sub><i>"All hope seems to have been lost now."</i></sub>
+  <sub><i>"Title*"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786905031" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786911814" />
 </div>
 <!-- QUOTE_END -->
 
