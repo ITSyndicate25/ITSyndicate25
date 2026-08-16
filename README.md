@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/urs49zkubvih1.gif?t=1786862480" width="400" />
+  <img src="https://i.redd.it/rnj3gctuduih1.png?t=1786869040" width="400" />
   <br />
-  <sub><i>"Such a miserable feeling."</i></sub>
+  <sub><i>"holy shit"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786862480" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786869040" />
 </div>
 <!-- QUOTE_END -->
 
