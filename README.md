@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/82gqyugpxyih1.gif?t=1786949861" width="400" />
+  <img src="https://i.redd.it/avv7c22i7vjh1.png?t=1786956276" width="400" />
   <br />
-  <sub><i>"Wht is this a thing"</i></sub>
+  <sub><i>"Know the Difference"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786949861" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786956276" />
 </div>
 <!-- QUOTE_END -->
 
