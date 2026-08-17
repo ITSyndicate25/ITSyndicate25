@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/gyu10bamiijh1.png?t=1786918903" width="400" />
+  <img src="https://i.redd.it/gl67g25kyqjh1.png?t=1786929629" width="400" />
   <br />
-  <sub><i>"It's a real struggle"</i></sub>
+  <sub><i>"If you know that sweet chick you'd understand."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786918903" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1786929629" />
 </div>
 <!-- QUOTE_END -->
 
