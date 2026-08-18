@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/14ydn3amk9jh1.png?t=1787042293" width="400" />
+  <img src="https://i.redd.it/avv7c22i7vjh1.png?t=1787048988" width="400" />
   <br />
-  <sub><i>"Rotten luck"</i></sub>
+  <sub><i>"Know the Difference"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787042293" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787048988" />
 </div>
 <!-- QUOTE_END -->
 
