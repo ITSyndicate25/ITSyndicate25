@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/3sogntkel5kh1.png?t=1787078358" width="400" />
+  <img src="https://i.redd.it/wow07pbbeujh1.png?t=1787084718" width="400" />
   <br />
-  <sub><i>"Just One More Subscription"</i></sub>
+  <sub><i>"A hard title."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787078358" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787084718" />
 </div>
 <!-- QUOTE_END -->
 
