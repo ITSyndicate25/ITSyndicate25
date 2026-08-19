@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/343y8zh9j0kh1.png?t=1787150094" width="400" />
+  <img src="https://i.redd.it/fhau9myf3ckh1.png?t=1787157153" width="400" />
   <br />
-  <sub><i>"The biggest couple in Hollywood, and Zendaya."</i></sub>
+  <sub><i>"Remembering"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787150094" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787157153" />
 </div>
 <!-- QUOTE_END -->
 
