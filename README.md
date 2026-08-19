@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/57ymxlo25tjh1.gif?t=1787108278" width="400" />
+  <img src="https://i.redd.it/wz049wq2d2kh1.gif?t=1787114276" width="400" />
   <br />
-  <sub><i>"Great combo deal"</i></sub>
+  <sub><i>"Fake muscles vs REAL muscles"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787108278" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787114276" />
 </div>
 <!-- QUOTE_END -->
 
