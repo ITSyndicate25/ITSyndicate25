@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/lpmfk78101kh1.png?t=1787121956" width="400" />
+  <img src="https://i.redd.it/pk896i5uhvjh1.png?t=1787128706" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"how it feels telling everyone about deadlock before it becomes a household name"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787121956" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787128706" />
 </div>
 <!-- QUOTE_END -->
 
