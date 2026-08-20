@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/tpvkirpz1zjh1.gif?t=1787221895" width="400" />
+  <img src="https://i.redd.it/tefwd3kzf8kh1.png?t=1787230317" width="400" />
   <br />
-  <sub><i>"Now and then there's a fool such as I"</i></sub>
+  <sub><i>""Yaaaay!""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787221895" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787230317" />
 </div>
 <!-- QUOTE_END -->
 
