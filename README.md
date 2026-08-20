@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/o7asu6tnpckh1.png?t=1787200680" width="400" />
+  <img src="https://i.redd.it/rfl5830wvbkh1.png?t=1787208525" width="400" />
   <br />
-  <sub><i>"it depend on if only few ones will own something or if nobody will own something"</i></sub>
+  <sub><i>"Making a Meme at 2 AM"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787200680" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787208525" />
 </div>
 <!-- QUOTE_END -->
 
