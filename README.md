@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hvebuydlrfkh1.png?t=1787264931" width="400" />
+  <img src="https://i.redd.it/ju2eo1g9akkh1.gif?t=1787275321" width="400" />
   <br />
-  <sub><i>"me irl"</i></sub>
+  <sub><i>"Tale as old as time"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787264931" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787275321" />
 </div>
 <!-- QUOTE_END -->
 
