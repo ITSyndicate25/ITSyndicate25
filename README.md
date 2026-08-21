@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/lxtiz0qn6lkh1.png?t=1787308296" width="400" />
+  <img src="https://i.redd.it/bgx55q0jwnkh1.png?t=1787316626" width="400" />
   <br />
-  <sub><i>"it really do be like that tho"</i></sub>
+  <sub><i>"AMA's every damn time"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787308296" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787316626" />
 </div>
 <!-- QUOTE_END -->
 
