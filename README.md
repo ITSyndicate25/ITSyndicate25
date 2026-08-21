@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/zfv4pqa0zdkh1.png?t=1787281438" width="400" />
+  <img src="https://i.redd.it/sad090om06kh1.png?t=1787287159" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>""it's whimsical, yet evil""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787281438" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787287159" />
 </div>
 <!-- QUOTE_END -->
 
