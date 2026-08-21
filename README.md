@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/oze3ol4o84kh1.gif?t=1787322969" width="400" />
+  <img src="https://i.redd.it/h2pc0oft81kh1.png?t=1787330127" width="400" />
   <br />
-  <sub><i>"My Posts Suck. I Score Better In The Comments."</i></sub>
+  <sub><i>"Loving the new custom night"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787322969" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787330127" />
 </div>
 <!-- QUOTE_END -->
 
