@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/bgx55q0jwnkh1.png?t=1787316626" width="400" />
+  <img src="https://i.redd.it/oze3ol4o84kh1.gif?t=1787322969" width="400" />
   <br />
-  <sub><i>"AMA's every damn time"</i></sub>
+  <sub><i>"My Posts Suck. I Score Better In The Comments."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787316626" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787322969" />
 </div>
 <!-- QUOTE_END -->
 
