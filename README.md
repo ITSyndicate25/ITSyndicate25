@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/3k5xvi9qb5kh1.png?t=1787337462" width="400" />
+  <img src="https://i.redd.it/f8z5uzk3hqkh1.png?t=1787344005" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Difference between $230 and $80B"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787337462" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787344005" />
 </div>
 <!-- QUOTE_END -->
 
