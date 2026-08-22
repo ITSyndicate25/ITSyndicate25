@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/gsl5o8p1qckh1.png?t=1787387468" width="400" />
+  <img src="https://i.redd.it/yyt071o52ekh1.gif?t=1787394279" width="400" />
   <br />
-  <sub><i>"who care about a degree, i just want to be the player on my favorite game!"</i></sub>
+  <sub><i>"Me_irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787387468" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787394279" />
 </div>
 <!-- QUOTE_END -->
 
