@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/mwcd78trylkh1.png?t=1787373224" width="400" />
+  <img src="https://i.redd.it/f40x9h9q4gkh1.gif?t=1787380874" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"Which one of you holds the title now?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787373224" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787380874" />
 </div>
 <!-- QUOTE_END -->
 
