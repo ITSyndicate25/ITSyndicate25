@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/eeuqjkqx6skh1.png?t=1787448307" width="400" />
+  <img src="https://i.redd.it/s5azdzkxj7kh1.gif?t=1787454204" width="400" />
   <br />
-  <sub><i>"Where have I heard something similar 🤔"</i></sub>
+  <sub><i>"It's over"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787448307" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787454204" />
 </div>
 <!-- QUOTE_END -->
 
