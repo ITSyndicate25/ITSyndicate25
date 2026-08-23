@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/2i9p314tjgkh1.png?t=1787467319" width="400" />
+  <img src="https://i.redd.it/q3ub0n7z4tkh1.png?t=1787473897" width="400" />
   <br />
-  <sub><i>"A diabetic title"</i></sub>
+  <sub><i>"That was 84 years ago."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787467319" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787473897" />
 </div>
 <!-- QUOTE_END -->
 
