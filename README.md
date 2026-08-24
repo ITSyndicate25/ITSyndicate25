@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/f62z2ok7galh1.png?t=1787603492" width="400" />
+  <img src="https://i.redd.it/l4lv7hizzdlh1.gif?t=1787610447" width="400" />
   <br />
-  <sub><i>"How dare they ask for money for their work!"</i></sub>
+  <sub><i>"Extermination time"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787603492" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787610447" />
 </div>
 <!-- QUOTE_END -->
 
