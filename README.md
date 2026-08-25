@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/l4lv7hizzdlh1.gif?t=1787610447" width="400" />
+  <img src="https://i.redd.it/z5xs849870lh1.png?t=1787620779" width="400" />
   <br />
-  <sub><i>"Extermination time"</i></sub>
+  <sub><i>"Alan walker my beloved"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787610447" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787620779" />
 </div>
 <!-- QUOTE_END -->
 
