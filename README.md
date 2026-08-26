@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/zjs11c1ekjlh1.gif?t=1787762909" width="400" />
+  <img src="https://i.redd.it/uaq0n7rcwnlh1.png?t=1787773733" width="400" />
   <br />
-  <sub><i>"maybe something will happen this time, he said"</i></sub>
+  <sub><i>"POV You paid for Youtube Premium:"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787762909" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787773733" />
 </div>
 <!-- QUOTE_END -->
 
