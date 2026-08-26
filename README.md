@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/la7eqvgiqblh1.png?t=1787755522" width="400" />
+  <img src="https://i.redd.it/zjs11c1ekjlh1.gif?t=1787762909" width="400" />
   <br />
-  <sub><i>"Finally, something the whole internet agrees on 💀"</i></sub>
+  <sub><i>"maybe something will happen this time, he said"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787755522" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1787762909" />
 </div>
 <!-- QUOTE_END -->
 
