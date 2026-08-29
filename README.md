@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/78txg17n2ylh1.png?t=1788035650" width="400" />
+  <img src="https://i.redd.it/5h9c08hi18mh1.png?t=1788047752" width="400" />
   <br />
-  <sub><i>"He actually said this was the cure a crowd of pennsylvanians btw"</i></sub>
+  <sub><i>"Why is everyone treat the word like this"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788035650" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788047752" />
 </div>
 <!-- QUOTE_END -->
 
