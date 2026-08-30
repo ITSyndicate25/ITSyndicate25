@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/5h9c08hi18mh1.png?t=1788047752" width="400" />
+  <img src="https://i.redd.it/k68y1ae6h4mh1.png?t=1788064523" width="400" />
   <br />
-  <sub><i>"Why is everyone treat the word like this"</i></sub>
+  <sub><i>"literally disney´s lore"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788047752" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788064523" />
 </div>
 <!-- QUOTE_END -->
 
