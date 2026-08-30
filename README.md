@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/2zoa2o7d3hmh1.png?t=1788106490" width="400" />
+  <img src="https://i.redd.it/ovm7g8u8mgmh1.png?t=1788122552" width="400" />
   <br />
-  <sub><i>"The Lion isn't concerned with forgetting why he entered the room the moment he entered it . ."</i></sub>
+  <sub><i>"Spaghorld Spaghwar Spaghtwo Moment"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788106490" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788122552" />
 </div>
 <!-- QUOTE_END -->
 
