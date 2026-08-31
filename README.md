@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ovm7g8u8mgmh1.png?t=1788122552" width="400" />
+  <img src="https://i.redd.it/coazzjs7wimh1.png?t=1788135297" width="400" />
   <br />
-  <sub><i>"Spaghorld Spaghwar Spaghtwo Moment"</i></sub>
+  <sub><i>"it's even worse when you already died many times prior"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788122552" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788135297" />
 </div>
 <!-- QUOTE_END -->
 
