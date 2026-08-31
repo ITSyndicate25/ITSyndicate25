@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/fdgrwlqtnimh1.png?t=1788164115" width="400" />
+  <img src="https://i.redd.it/ltzbh2f8ntlh1.png?t=1788197155" width="400" />
   <br />
-  <sub><i>"Task failed successfully: am basically an industry veteran at this point"</i></sub>
+  <sub><i>"Regarding the latest events"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788164115" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788197155" />
 </div>
 <!-- QUOTE_END -->
 
