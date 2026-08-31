@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/coazzjs7wimh1.png?t=1788135297" width="400" />
+  <img src="https://i.redd.it/fdgrwlqtnimh1.png?t=1788164115" width="400" />
   <br />
-  <sub><i>"it's even worse when you already died many times prior"</i></sub>
+  <sub><i>"Task failed successfully: am basically an industry veteran at this point"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788135297" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788164115" />
 </div>
 <!-- QUOTE_END -->
 
