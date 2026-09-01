@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/g1fiz5fanwmh1.png?t=1788279233" width="400" />
+  <img src="https://i.redd.it/ylcxxj451vmh1.png?t=1788295327" width="400" />
   <br />
-  <sub><i>"It's lake ontario btw"</i></sub>
+  <sub><i>"Would you still live me if I were a GRAVE BUSTER™?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788279233" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788295327" />
 </div>
 <!-- QUOTE_END -->
 
