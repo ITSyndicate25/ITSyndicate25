@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/o6oxwrdfklmh1.png?t=1788358164" width="400" />
+  <img src="https://i.redd.it/d5e16m32v2nh1.png?t=1788376529" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"From all the places on earth, its hard to find anything remotely so beautiful."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788358164" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788376529" />
 </div>
 <!-- QUOTE_END -->
 
