@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/4rrziqohk4nh1.gif?t=1788406087" width="400" />
+  <img src="https://i.redd.it/hyoc2rq4i2nh1.gif?t=1788424770" width="400" />
   <br />
-  <sub><i>"Sorry little guy"</i></sub>
+  <sub><i>"I Cant be the only one who has ever noticed this...."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788406087" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788424770" />
 </div>
 <!-- QUOTE_END -->
 
