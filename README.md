@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/nk3l66di56nh1.png?t=1788462569" width="400" />
+  <img src="https://i.redd.it/hyoc2rq4i2nh1.gif?t=1788474129" width="400" />
   <br />
-  <sub><i>"In light of recent events, this one's for you buddy"</i></sub>
+  <sub><i>"I Cant be the only one who has ever noticed this...."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788462569" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788474129" />
 </div>
 <!-- QUOTE_END -->
 
