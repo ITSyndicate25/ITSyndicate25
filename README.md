@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/kp0w1xrygzmh1.png?t=1788444747" width="400" />
+  <img src="https://i.redd.it/nk3l66di56nh1.png?t=1788462569" width="400" />
   <br />
-  <sub><i>"It's Harambe all over again."</i></sub>
+  <sub><i>"In light of recent events, this one's for you buddy"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788444747" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788462569" />
 </div>
 <!-- QUOTE_END -->
 
