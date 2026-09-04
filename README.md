@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/v5imq3w0fkmh1.png?t=1788510850" width="400" />
+  <img src="https://i.redd.it/mqh5va1uzdnh1.png?t=1788530602" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Nose bigger in camera, yea I trust mirror more"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788510850" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788530602" />
 </div>
 <!-- QUOTE_END -->
 
