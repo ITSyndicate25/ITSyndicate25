@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/mkd5dm7gjxmh1.png?t=1788595731" width="400" />
+  <img src="https://i.redd.it/t2w1wbxhpknh1.png?t=1788614225" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Eco-friendly bread. Now with 100% less packaging."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788595731" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788614225" />
 </div>
 <!-- QUOTE_END -->
 
