@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/rwmdqrbeocnh1.png?t=1788626168" width="400" />
+  <img src="https://i.redd.it/hf7ezrd2ronh1.png?t=1788638574" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"I'm just a quiet dumbass."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788626168" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788638574" />
 </div>
 <!-- QUOTE_END -->
 
