@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/a34o0niph8nh1.png?t=1788651362" width="400" />
+  <img src="https://i.redd.it/cns6qasbxrnh1.png?t=1788665301" width="400" />
   <br />
-  <sub><i>"Definitely a relationship meme."</i></sub>
+  <sub><i>"Stiff neck"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788651362" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788665301" />
 </div>
 <!-- QUOTE_END -->
 
