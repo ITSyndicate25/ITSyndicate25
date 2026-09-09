@@ -87,9 +87,9 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/n43a05upchoh1.png?t=1788980841" width="400" />
+  <img src="https://i.redd.it/u2jywz6x6eoh1.png?t=1788992373" width="400" />
   <br />
-  <sub><i>"It happens"</i></sub>
+  <sub><i>"Not a relationship meme. (except it is)"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** at **Fujifilm Optics Philippines Inc.**, based 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788980841" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788992373" />
 </div>
 <!-- QUOTE_END -->
 
