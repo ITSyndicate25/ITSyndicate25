@@ -131,5 +131,5 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 ---
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/ITSyndicate25">Kim Daniel Oraa</a></sub>
+  <sub>⭐ From <a href="https://github.com/ITSyndicate25">ITSyndicate 25</a></sub>
 </div>
