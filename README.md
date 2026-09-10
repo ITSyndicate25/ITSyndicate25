@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/9bak6sp6bjoh1.gif?t=1789011492" width="400" />
+  <img src="https://i.redd.it/728flmuy7moh1.png?t=1789029811" width="400" />
   <br />
-  <sub><i>"Good one, man"</i></sub>
+  <sub><i>"A Bleach (relationship) title."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789011492" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789029811" />
 </div>
 <!-- QUOTE_END -->
 
