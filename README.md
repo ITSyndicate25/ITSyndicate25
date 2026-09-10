@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/d8atxpnq1joh1.png?t=1789011394" width="400" />
+  <img src="https://i.redd.it/8smhqb12sunh1.gif?t=1789011453" width="400" />
   <br />
-  <sub><i>"When are we getting an AskJeeves AI?"</i></sub>
+  <sub><i>"Very relatable (unfortunately)"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789011394" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789011453" />
 </div>
 <!-- QUOTE_END -->
 
