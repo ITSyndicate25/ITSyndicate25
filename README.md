@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/u2jywz6x6eoh1.png?t=1788992373" width="400" />
+  <img src="https://i.redd.it/d8atxpnq1joh1.png?t=1789011394" width="400" />
   <br />
-  <sub><i>"Not a relationship meme. (except it is)"</i></sub>
+  <sub><i>"When are we getting an AskJeeves AI?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1788992373" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789011394" />
 </div>
 <!-- QUOTE_END -->
 
