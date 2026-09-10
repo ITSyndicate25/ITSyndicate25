@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/8smhqb12sunh1.gif?t=1789011453" width="400" />
+  <img src="https://i.redd.it/9bak6sp6bjoh1.gif?t=1789011492" width="400" />
   <br />
-  <sub><i>"Very relatable (unfortunately)"</i></sub>
+  <sub><i>"Good one, man"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789011453" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789011492" />
 </div>
 <!-- QUOTE_END -->
 
