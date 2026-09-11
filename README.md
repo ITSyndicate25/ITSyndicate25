@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/nqw2365yzwoh1.png?t=1789153254" width="400" />
+  <img src="https://i.redd.it/41wfibl3quoh1.png?t=1789165127" width="400" />
   <br />
-  <sub><i>"An acient meme format"</i></sub>
+  <sub><i>"oh rhino of the lake"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789153254" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789165127" />
 </div>
 <!-- QUOTE_END -->
 
