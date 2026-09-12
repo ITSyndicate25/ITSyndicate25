@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/0rxx0lg47toh1.png?t=1789201657" width="400" />
+  <img src="https://i.redd.it/xsffw1tbrtoh1.png?t=1789219403" width="400" />
   <br />
-  <sub><i>"POV: You’ve hit rock bottom"</i></sub>
+  <sub><i>"Meme? relationship a this is"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789201657" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789219403" />
 </div>
 <!-- QUOTE_END -->
 
