@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hkydowullhoh1.gif?t=1789231691" width="400" />
+  <img src="https://i.redd.it/8kvhepa2bzoh1.png?t=1789244280" width="400" />
   <br />
-  <sub><i>"No hats till morale improves or the trout population recovers :3"</i></sub>
+  <sub><i>"A gentleman and a scholar"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789231691" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789244280" />
 </div>
 <!-- QUOTE_END -->
 
