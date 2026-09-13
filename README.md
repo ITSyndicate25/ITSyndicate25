@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/yh23na6kyioh1.png?t=1789271143" width="400" />
+  <img src="https://i.redd.it/lydp29g5x4ph1.png?t=1789290769" width="400" />
   <br />
-  <sub><i>"And here's a spoiler for you"</i></sub>
+  <sub><i>"worst time to hit the job market"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789271143" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789290769" />
 </div>
 <!-- QUOTE_END -->
 
