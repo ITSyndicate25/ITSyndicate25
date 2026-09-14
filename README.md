@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/m9k9fy496eph1.gif?t=1789358018" width="400" />
+  <img src="https://i.redd.it/snvo5b62j2ph1.png?t=1789378775" width="400" />
   <br />
-  <sub><i>"Through the double doors and past the boxes of fruit"</i></sub>
+  <sub><i>"Me_irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789358018" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789378775" />
 </div>
 <!-- QUOTE_END -->
 
