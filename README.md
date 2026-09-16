@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/6srwk4bkdeph1.gif?t=1789564396" width="400" />
+  <img src="https://i.redd.it/j61zyygjvoph1.gif?t=1789581580" width="400" />
   <br />
-  <sub><i>"Doesn't matter if you win by an inch or a mile."</i></sub>
+  <sub><i>"waifu"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789564396" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789581580" />
 </div>
 <!-- QUOTE_END -->
 
