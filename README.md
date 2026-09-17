@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/rfybrw5rshph1.gif?t=1789667907" width="400" />
+  <img src="https://i.redd.it/ep5705najvph1.png?t=1789679696" width="400" />
   <br />
-  <sub><i>"If it's so eager to handhold me so much, give a blowjob while on it"</i></sub>
+  <sub><i>"I mean, a wise one doesn't mind her being older."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789667907" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789679696" />
 </div>
 <!-- QUOTE_END -->
 
