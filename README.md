@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ch245u4z4yph1.png?t=1789629474" width="400" />
+  <img src="https://i.redd.it/4270z7qazlph1.png?t=1789650475" width="400" />
   <br />
-  <sub><i>"With no more supporting acts there's so much room for activities"</i></sub>
+  <sub><i>"Let her go chat"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789629474" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789650475" />
 </div>
 <!-- QUOTE_END -->
 
