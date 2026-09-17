@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/4270z7qazlph1.png?t=1789650475" width="400" />
+  <img src="https://i.redd.it/rfybrw5rshph1.gif?t=1789667907" width="400" />
   <br />
-  <sub><i>"Let her go chat"</i></sub>
+  <sub><i>"If it's so eager to handhold me so much, give a blowjob while on it"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789650475" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789667907" />
 </div>
 <!-- QUOTE_END -->
 
