@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hfsff9ide3qh1.png?t=1789862181" width="400" />
+  <img src="https://i.redd.it/7c9z4qku2aqh1.gif?t=1789878073" width="400" />
   <br />
-  <sub><i>"I'm just investigating baby."</i></sub>
+  <sub><i>"You worry too much!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789862181" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789878073" />
 </div>
 <!-- QUOTE_END -->
 
