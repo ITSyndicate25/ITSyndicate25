@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/q2la0tdi6pqh1.png?t=1789942491" width="400" />
+  <img src="https://i.redd.it/qku6dwnp5sqh1.gif?t=1789962860" width="400" />
   <br />
-  <sub><i>"Always be Creative"</i></sub>
+  <sub><i>"Obama is baffled"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789942491" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789962860" />
 </div>
 <!-- QUOTE_END -->
 
