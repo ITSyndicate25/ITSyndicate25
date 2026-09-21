@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/qku6dwnp5sqh1.gif?t=1789962860" width="400" />
+  <img src="https://i.redd.it/sa8ay3pt0sqh1.png?t=1789983833" width="400" />
   <br />
-  <sub><i>"Obama is baffled"</i></sub>
+  <sub><i>"I like reading the comments there"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789962860" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1789983833" />
 </div>
 <!-- QUOTE_END -->
 
