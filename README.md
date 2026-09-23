@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ss909buao7rh1.png?t=1790169929" width="400" />
+  <img src="https://i.redd.it/6x2b081ld6rh1.png?t=1790187450" width="400" />
   <br />
-  <sub><i>"me_irl"</i></sub>
+  <sub><i>"Best i can do is shadowban and autofilter"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1790169929" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1790187450" />
 </div>
 <!-- QUOTE_END -->
 
