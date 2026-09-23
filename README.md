@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/x4wlm2skaxqh1.png?t=1790121938" width="400" />
+  <img src="https://i.redd.it/qzmuywyfdnqh1.gif?t=1790148527" width="400" />
   <br />
-  <sub><i>"Disneylandopoly"</i></sub>
+  <sub><i>"it's a new world record!!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1790121938" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1790148527" />
 </div>
 <!-- QUOTE_END -->
 
