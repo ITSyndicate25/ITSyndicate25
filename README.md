@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/fy0q22qcyfrh1.png?t=1790260849" width="400" />
+  <img src="https://i.redd.it/cu3stgxwmerh1.png?t=1790279470" width="400" />
   <br />
-  <sub><i>"Anyone else got games like this?"</i></sub>
+  <sub><i>"Fashion over health"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1790260849" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1790279470" />
 </div>
 <!-- QUOTE_END -->
 
