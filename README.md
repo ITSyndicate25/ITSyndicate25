@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/vqu4cs4egcth1.gif?t=1791089356" width="400" />
+  <img src="https://i.redd.it/a31xkde2sosh1.gif?t=1791114907" width="400" />
   <br />
-  <sub><i>""Upholding your family's honor" as she puts it (OC)"</i></sub>
+  <sub><i>"Bro, do you even compress files?"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791089356" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791114907" />
 </div>
 <!-- QUOTE_END -->
 
