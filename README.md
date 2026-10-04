@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/inu13p72e8th1.png?t=1791067423" width="400" />
+  <img src="https://i.redd.it/vqu4cs4egcth1.gif?t=1791089356" width="400" />
   <br />
-  <sub><i>""Yes daddy/ mommy" 🫠"</i></sub>
+  <sub><i>""Upholding your family's honor" as she puts it (OC)"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791067423" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791089356" />
 </div>
 <!-- QUOTE_END -->
 
