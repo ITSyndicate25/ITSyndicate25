@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hawjnquni5uh1.png?t=1791448308" width="400" />
+  <img src="https://i.redd.it/5gvr4vdw9wth1.png?t=1791479683" width="400" />
   <br />
-  <sub><i>"I never thought I'd hear this with my own ears"</i></sub>
+  <sub><i>"Title*"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791448308" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791479683" />
 </div>
 <!-- QUOTE_END -->
 
