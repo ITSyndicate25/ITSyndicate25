@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/wzjj19wxkith1.png?t=1791522337" width="400" />
+  <img src="https://i.redd.it/kihcbbceebuh1.png?t=1791549943" width="400" />
   <br />
-  <sub><i>"So are we reporting it stolen or???."</i></sub>
+  <sub><i>"that whalefall movie is lookin pretty goofy"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791522337" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791549943" />
 </div>
 <!-- QUOTE_END -->
 
