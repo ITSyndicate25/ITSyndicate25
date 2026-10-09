@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/bcykkjtyquth1.png?t=1791573518" width="400" />
+  <img src="https://i.redd.it/8rs5rd5wo5uh1.gif?t=1791589896" width="400" />
   <br />
-  <sub><i>"We will call the police"</i></sub>
+  <sub><i>"Death via claustrophobia? For those who have it all and don’t care"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791573518" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791589896" />
 </div>
 <!-- QUOTE_END -->
 
