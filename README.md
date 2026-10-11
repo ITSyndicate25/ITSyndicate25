@@ -87,7 +87,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/fv1lft9ujtuh1.gif?t=1791744008" width="400" />
+  <img src="https://i.redd.it/fv1lft9ujtuh1.gif?t=1791761341" width="400" />
   <br />
   <sub><i>"Let the wild side out"</i></sub>
 </div>
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791744008" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791761341" />
 </div>
 <!-- QUOTE_END -->
 
