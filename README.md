@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/feaz9hcpucuh1.gif?t=1791816150" width="400" />
+  <img src="https://i.redd.it/0g9kodz332vh1.png?t=1791845175" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>""Bots need data centers to run. What's so complicated about that?""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791816150" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791845175" />
 </div>
 <!-- QUOTE_END -->
 
