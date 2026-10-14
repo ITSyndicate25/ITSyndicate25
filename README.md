@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/5uqvi17g08vh1.png?t=1791962036" width="400" />
+  <img src="https://i.redd.it/dlnucncrh9vh1.png?t=1791984219" width="400" />
   <br />
-  <sub><i>"Things = 1000 bucks, Shipping fee = 50 and I cancel the order because this SF seems too much."</i></sub>
+  <sub><i>"eltit A"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791962036" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791984219" />
 </div>
 <!-- QUOTE_END -->
 
