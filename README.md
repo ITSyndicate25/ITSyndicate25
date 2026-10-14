@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/dlnucncrh9vh1.png?t=1791984219" width="400" />
+  <img src="https://i.redd.it/3egp9xfm7cvh1.gif?t=1792002114" width="400" />
   <br />
-  <sub><i>"eltit A"</i></sub>
+  <sub><i>"There are many ways this could end. None of them are good."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1791984219" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792002114" />
 </div>
 <!-- QUOTE_END -->
 
