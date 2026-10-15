@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/p7s220v9ocvh1.png?t=1792093442" width="400" />
+  <img src="https://i.redd.it/qbnjsiltnjvh1.png?t=1792104925" width="400" />
   <br />
-  <sub><i>"me irl"</i></sub>
+  <sub><i>"Jake and Logan Paul in 2026"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792093442" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792104925" />
 </div>
 <!-- QUOTE_END -->
 
