@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/jjoz7mo22qvh1.gif?t=1792178659" width="400" />
+  <img src="https://i.redd.it/0belds7l84vh1.gif?t=1792190296" width="400" />
   <br />
-  <sub><i>"No homo only hulk"</i></sub>
+  <sub><i>"Nectar of the Gods"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792178659" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792190296" />
 </div>
 <!-- QUOTE_END -->
 
