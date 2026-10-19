@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/ee9tirpklbwh1.png?t=1792383897" width="400" />
+  <img src="https://i.redd.it/prdhtx61quvh1.gif?t=1792412848" width="400" />
   <br />
-  <sub><i>"It's really so overdone"</i></sub>
+  <sub><i>"Welcome to the 21st century, Elon."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792383897" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792412848" />
 </div>
 <!-- QUOTE_END -->
 
