@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/spm7i88gdgwh1.png?t=1792573854" width="400" />
+  <img src="https://i.redd.it/5izzzvreljwh1.png?t=1792594485" width="400" />
   <br />
-  <sub><i>"I do not mind it"</i></sub>
+  <sub><i>""Like, zoinks Scoob! Using 1.2 percent of my power to make a harem was a bad idea.""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792573854" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792594485" />
 </div>
 <!-- QUOTE_END -->
 
