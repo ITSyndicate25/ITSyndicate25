@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/k4jd9g7z7cwh1.png?t=1792849919" width="400" />
+  <img src="https://i.redd.it/aaamg4egufwh1.gif?t=1792862084" width="400" />
   <br />
-  <sub><i>"Food is out, social hour is over guys"</i></sub>
+  <sub><i>"Shouldn't have made all those vidoes about making 200k for doing nothing"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792849919" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792862084" />
 </div>
 <!-- QUOTE_END -->
 
