@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/nlh39bi0ulxh1.gif?t=1792972459" width="400" />
+  <img src="https://i.redd.it/gydljyvvfexh1.png?t=1792986261" width="400" />
   <br />
-  <sub><i>"Just give them 6-12 months (its exponential, trust us guys!)"</i></sub>
+  <sub><i>"The milk aisle"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792972459" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1792986261" />
 </div>
 <!-- QUOTE_END -->
 
