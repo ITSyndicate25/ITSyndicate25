@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/rwtpso0buzxh1.png?t=1793199694" width="400" />
+  <img src="https://i.redd.it/a78t9ziphfxh1.gif?t=1793220590" width="400" />
   <br />
-  <sub><i>"Do y'all just not like your national animal or something?"</i></sub>
+  <sub><i>"Those corporate execs really hate Avatar"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793199694" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793220590" />
 </div>
 <!-- QUOTE_END -->
 
