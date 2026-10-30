@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/vy5rh8eu19yh1.png?t=1793386841" width="400" />
+  <img src="https://i.redd.it/6mnqxoeakgyh1.png?t=1793402971" width="400" />
   <br />
-  <sub><i>"steve jobs died for our sins"</i></sub>
+  <sub><i>"me_irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793386841" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793402971" />
 </div>
 <!-- QUOTE_END -->
 
