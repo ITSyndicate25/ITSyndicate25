@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/3w19ki062eyh1.png?t=1793447454" width="400" />
+  <img src="https://i.redd.it/vfwfi5i46nyh1.png?t=1793465842" width="400" />
   <br />
-  <sub><i>"I can't help myself"</i></sub>
+  <sub><i>"She should have learnt from Spider-Man"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793447454" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793465842" />
 </div>
 <!-- QUOTE_END -->
 
