@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/1holw7huuqyh1.gif?t=1793706086" width="400" />
+  <img src="https://i.redd.it/4p7hgchgq6zh1.png?t=1793733180" width="400" />
   <br />
-  <sub><i>"Yeah i have complaints. Where the spooky spirit people?"</i></sub>
+  <sub><i>"They never do it..."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793706086" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793733180" />
 </div>
 <!-- QUOTE_END -->
 
