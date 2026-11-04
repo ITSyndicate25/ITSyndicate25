@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/fhv7a3mnwezh1.png?t=1793781840" width="400" />
+  <img src="https://i.redd.it/qj3dc2d6wczh1.png?t=1793814554" width="400" />
   <br />
-  <sub><i>"RAM Altman wants to Randomly Access your Memory"</i></sub>
+  <sub><i>"Dark psychology"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793781840" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793814554" />
 </div>
 <!-- QUOTE_END -->
 
