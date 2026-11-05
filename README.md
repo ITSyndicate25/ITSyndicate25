@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/dv6qcm4a7mzh1.png?t=1793834359" width="400" />
+  <img src="https://i.redd.it/cyq03zku0ozh1.gif?t=1793857122" width="400" />
   <br />
-  <sub><i>"Maybe it was all a dream"</i></sub>
+  <sub><i>"Two parties go brrrr"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793834359" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1793857122" />
 </div>
 <!-- QUOTE_END -->
 
