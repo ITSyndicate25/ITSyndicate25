@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/f86oecqf050i1.png?t=1794163265" width="400" />
+  <img src="https://i.redd.it/c5d267ymgdzh1.png?t=1794180464" width="400" />
   <br />
-  <sub><i>"Eltit*"</i></sub>
+  <sub><i>"peace was never an option"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794163265" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794180464" />
 </div>
 <!-- QUOTE_END -->
 
