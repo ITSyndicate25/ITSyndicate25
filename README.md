@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/z429cpnbpdzh1.png?t=1794113914" width="400" />
+  <img src="https://i.redd.it/dgc0spyu6d0i1.png?t=1794142489" width="400" />
   <br />
-  <sub><i>"GBA SP"</i></sub>
+  <sub><i>"Movie Enjoyer vs Film Bro vs Cinephile"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794113914" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794142489" />
 </div>
 <!-- QUOTE_END -->
 
