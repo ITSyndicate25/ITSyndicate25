@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/66fhouqadl0i1.gif?t=1794268733" width="400" />
+  <img src="https://i.redd.it/o2qds3ec1q0i1.png?t=1794294178" width="400" />
   <br />
-  <sub><i>"Oh no! There’s a little bit of News between my ads!"</i></sub>
+  <sub><i>"The correct use of this meme 😜"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794268733" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794294178" />
 </div>
 <!-- QUOTE_END -->
 
