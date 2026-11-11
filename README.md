@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/mn29dv6fvn0i1.png?t=1794351388" width="400" />
+  <img src="https://i.redd.it/zccq4s56ai0i1.png?t=1794373749" width="400" />
   <br />
-  <sub><i>"CCP Honeypot got me acting Unwise"</i></sub>
+  <sub><i>"🗣️🗣️🗣️🗣️"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794351388" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794373749" />
 </div>
 <!-- QUOTE_END -->
 
