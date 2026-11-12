@@ -87,9 +87,9 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/0sli9m0ejg0i1.png?t=1794485832" width="400" />
+  <img src="https://i.redd.it/be13c6octp0i1.png?t=1794518406" width="400" />
   <br />
-  <sub><i>""4.5 out of 5 stars.""</i></sub>
+  <sub><i>""Ma'am, can you please stop.""</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -101,7 +101,7 @@ I'm an **IT Software Developer** based in the Philippines. I build robust web ap
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794485832" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794518406" />
 </div>
 <!-- QUOTE_END -->
 
