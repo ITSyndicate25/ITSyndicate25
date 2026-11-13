@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 128 128">
+<title>vite</title>
+<style>
+  /* Fill first: the mark reads as a normal logo in any renderer that ignores
+     CSS, and never disappears while the animation runs. */
+  .icon, .icon * { stroke-dasharray: 1000; stroke-dashoffset: 0; }
+  .icon { transform-box: view-box; transform-origin: center; }
+  .icon * { stroke-width: 1.5; stroke-linejoin: round; }
+  @media (prefers-reduced-motion: no-preference) {
+    .icon {
+      animation: icon-float 4s ease-in-out infinite;
+      animation-delay: var(--delay, 0s);
+    }
+    .icon * {
+      animation: icon-sweep 4s linear infinite;
+      animation-delay: var(--delay, 0s);
+    }
+    @keyframes icon-float {
+      0%, 100% { transform: translateY(0) }
+      50% { transform: translateY(-4px) }
+    }
+    /* The outline runs from before the start of the path to past its end, so
+       it always travels the same direction. */
+    @keyframes icon-sweep {
+      0% { stroke-dashoffset: 1000 }
+      100% { stroke-dashoffset: -1000 }
+    }
+  }
+</style>
+<g class="icon" style="--delay: 0.48s">
+<path fill="#006bff" d="M128 3.83 48.72 22.547 36.977 124.17ZM39.464 24.264 0 33.167l35.658 90.604Z" pathLength="1000" stroke="#006bff"/>
+</g>
+</svg>
