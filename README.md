@@ -12,13 +12,14 @@
 
 ## 👨‍💻 About Me
 
-I'm an **IT Software Developer** based in the Philippines. I build and maintain web systems that people use every day at work — mostly Laravel on SQL Server for the enterprise side, and Next.js when a project wants a modern front end.
+I'm an **IT Software Developer** based in the Philippines. I build and maintain web applications and internal business systems — mostly **Laravel on SQL Server** for the enterprise side, and the **Next.js / React / TypeScript** stack when a project calls for a modern front end.
 
-- 🔭 Building and maintaining enterprise web systems at Fujifilm Optics Philippines Inc (FOPH) — inventory, change request, customer feedback, incident reporting, library, booking and dashboards, all on **Laravel 12 + PHP 8.2 + SQL Server**
-- 🧩 Full-stack work in **Next.js 16, React 19, Prisma, NextAuth, Tailwind CSS** and shadcn-style component systems
-- ⚡ Real-time and event-driven systems: **Express 5 + Socket.IO 4** for a self-hosted multiplayer game, **FastAPI + YOLOv8/SAM3** for PPE compliance monitoring
-- 🖥️ Terminal tooling: I build and maintain **Tern** plugins — an icon theme, an animated pet, and a VS Code Dark port — in JavaScript, CSS and Luau
-- 🐍 Desktop and automation tools in **Python** — including a Tkinter SAP CSV merger packaged with PyInstaller and shipped through an Inno Setup installer
+- 🔭 Building and maintaining enterprise web applications at Fujifilm Optics Philippines Inc (FOPH)
+- 🧩 Full-stack work across Laravel/PHP and the Next.js, React, Prisma and Tailwind ecosystem
+- ⚡ Real-time features with WebSockets, and event-driven backends for long-running processing
+- 🖥️ Developer tooling and editor plugins in JavaScript, CSS and Luau
+- 🐍 Python for desktop and automation tools
+- ☁️ Docker, Git and CI workflows for day-to-day delivery
 - 💬 Ask me about **Laravel**, **PHP**, **TypeScript**, **SQL Server**, and anything web-related
 - ⚡ Outside code: I enjoy reading, watching videos, memes, technology, and eating
 - 📍 Philippines 🇵🇭
