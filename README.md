@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/7pmjsv71t61i1.png?t=1794617086" width="400" />
+  <img src="https://i.redd.it/tx1iqfcipw0i1.gif?t=1794645756" width="400" />
   <br />
-  <sub><i>"Fuck them"</i></sub>
+  <sub><i>"Cool guys don't look at explosions"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794617086" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794645756" />
 </div>
 <!-- QUOTE_END -->
 
