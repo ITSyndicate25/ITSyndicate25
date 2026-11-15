@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/2x3atzmrum1i1.gif?t=1794771408" width="400" />
+  <img src="https://i.redd.it/1bllf7mp3g1i1.gif?t=1794786556" width="400" />
   <br />
-  <sub><i>"Majority of us will have more important shit to do"</i></sub>
+  <sub><i>"It just feels right"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794771408" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794786556" />
 </div>
 <!-- QUOTE_END -->
 
