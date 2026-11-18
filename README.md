@@ -81,7 +81,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/qitqd54al32i1.gif?t=1794947648" width="400" />
+  <img src="https://i.redd.it/93j58zn3lq1i1.png?t=1794972094" width="400" />
   <br />
   <sub><i>"Me_irl"</i></sub>
 </div>
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794947648" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794972094" />
 </div>
 <!-- QUOTE_END -->
 
