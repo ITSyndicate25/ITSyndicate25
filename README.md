@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/93j58zn3lq1i1.png?t=1794972094" width="400" />
+  <img src="https://i.redd.it/9x1f6cbbl42i1.png?t=1795005820" width="400" />
   <br />
-  <sub><i>"Me_irl"</i></sub>
+  <sub><i>"just felt like this needs to be said"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1794972094" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795005820" />
 </div>
 <!-- QUOTE_END -->
 
