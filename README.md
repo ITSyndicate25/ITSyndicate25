@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/0usuo3c4kh2i1.gif?t=1795178064" width="400" />
+  <img src="https://i.redd.it/080hiq8ztp2i1.png?t=1795210918" width="400" />
   <br />
-  <sub><i>"Sure buddy"</i></sub>
+  <sub><i>"I'd rather level up to 80 than pay 80."</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795178064" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795210918" />
 </div>
 <!-- QUOTE_END -->
 
