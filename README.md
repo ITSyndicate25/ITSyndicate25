@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/hcd0pwl30v2i1.png?t=1795229985" width="400" />
+  <img src="https://i.redd.it/l6lt9q5tqs2i1.png?t=1795263232" width="400" />
   <br />
-  <sub><i>"Pathetic innit?"</i></sub>
+  <sub><i>"apps when you dont pay the pro"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795229985" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795263232" />
 </div>
 <!-- QUOTE_END -->
 
