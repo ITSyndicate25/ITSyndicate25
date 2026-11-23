@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/jnohtmhqjw2i1.png?t=1795414815" width="400" />
+  <img src="https://i.redd.it/4chm0ub1qd3i1.png?t=1795463735" width="400" />
   <br />
-  <sub><i>"Ujumf*"</i></sub>
+  <sub><i>"He returns at the turn"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795414815" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795463735" />
 </div>
 <!-- QUOTE_END -->
 
