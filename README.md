@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/5y5uz2p8cg3i1.png?t=1795495172" width="400" />
+  <img src="https://i.redd.it/j2a6n1qjl33i1.png?t=1795540018" width="400" />
   <br />
-  <sub><i>"Let it Huang"</i></sub>
+  <sub><i>"Stay strong, men!"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795495172" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795540018" />
 </div>
 <!-- QUOTE_END -->
 
