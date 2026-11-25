@@ -81,9 +81,9 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- MEME_START -->
 <div align="center">
-  <img src="https://i.redd.it/rdx5ze3a8d3i1.png?t=1795571895" width="400" />
+  <img src="https://i.redd.it/gnv6o2mlvc3i1.png?t=1795604829" width="400" />
   <br />
-  <sub><i>"We need a replacement meme for the late, great Chuck Norris."</i></sub>
+  <sub><i>"me_irl"</i></sub>
 </div>
 <!-- MEME_END -->
 
@@ -95,7 +95,7 @@ I'm an **IT Software Developer** based in the Philippines. I build and maintain 
 
 <!-- QUOTE_START -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795571895" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cb=1795604829" />
 </div>
 <!-- QUOTE_END -->
 
